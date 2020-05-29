@@ -14,7 +14,7 @@ Il nostro è un processo, un *progetto in divenire*. Siamo solo all’inizio.
 Luigi de Magistris 
 
 .. figure:: media/img002.png
-   :name: gn
    :alt: La figura mostra la vista del golfo di napoli dall'alto
+   :name: gn
 
    Il Golfo di Napoli
