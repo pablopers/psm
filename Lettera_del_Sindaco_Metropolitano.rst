@@ -13,22 +13,3 @@ Il  percorso  avviato  è  tutt’ora  in  itinere,  il  processo  partecipativo
 Il nostro è un processo, un **progetto in divenire**. Siamo solo all’inizio.
 Luigi de Magistris 
 
-.. figure:: media/img002.png
-   :alt: La figura mostra la vista del golfo di napoli dall'alto
-   :name: gn
-   
-   
-.. figure:: media/img003.png
-   :alt: La figura mostra una panoramica della Reggia di Portici
-   :name: rp
-
-
-.. figure:: media/img004.png
-   :alt: La figura mostra uno scorcio del golfo di Napoli
-   :name: gn2
-   
-   
-.. figure:: media/img005.png
-   :alt: La figura mostra Procida con il golfo di Napoli alle spalle
-   :name: av
-   
