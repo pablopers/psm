@@ -17,7 +17,7 @@ Questo documento contiene il primo Piano Stratetegico della Città Metropolitana
 :Licenza: CC BY-NC-ND 2.0 IT|cc-by-nc-nd|
  
 .. toctree::
-   index/Lettera_del_Sindaco_Metropolitano.rst
+   Lettera_del_Sindaco_Metropolitano.rst
 
 .. toctree::
    :maxdepth: 3
