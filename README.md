@@ -1,7 +1,7 @@
 ![TITLE](http://www.cittametropolitana.na.it/ProvinciaVicina-theme/img/logo_citta_napoli_large.png)
 
-# Manuale Portale Utente - CRM Vtiger
+# Piano Strategico Città Metropolitana di Napoli
 
-Questo repository contiene il Manuale d'uso interno del Portale Utente, costruito su CRM vtiger, ad uso esclusivo dei redattori interni, per la gestione delle richieste di pubblicazione sul sito istituzionale della Città Metropolitana di Napoli.
+Questo repository contiene il primo Piano Strategico della Città Metropolitana di Napoli
 
-L'ufficio per le Relazioni con il Pubblico, che gestisce il servizio del Portale Utente, ha inteso regolamentare il servizio con questo documento [Contratto di Servizio -SLA](https://docs-italia-staging.teamdigitale.it/cittametropolitananapoli/sla/portaleutente-sla-docs/it/master/). 
+questa versione in html del documento è stata realizzata a cura dell'Ufficio per le Relazioni con il Pubblico
