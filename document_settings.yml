@@ -1,7 +1,6 @@
 --- 
 document:
-  name: "Manuale Portale Utente CRM"
-  description: "Manuale d'uso interno del Portale Utente - CRM vtiger per la gestione
-    delle richieste di pubblicazione su sito istituzionale della Città Metropolitana di Napoli."
+  name: "Piano Strategico Città Metropolitana di Napoli"
+  description: "Primo Piano Strategico della Città Metropolitana di Napoli"
   tags:
-    - "portale utente"
+    - "Piano Strategico"
