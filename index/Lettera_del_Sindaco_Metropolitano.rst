@@ -1,4 +1,5 @@
 Lettera del Sindaco Metropolitano
+---------------------------------
 
 Abbiamo cominciato a parlare di pianificazione strategica da tempo, da quando il Piano sembrava un miraggio, da quando eravamo in pochi a crederci, costruendo atti e procedure che proprio nelle trame del Piano stesso, infine, hanno trovato una loro ricucitura d’insieme.
 Scrivere un piano può sembrare compito non difficile se si parte da temi noti che trovano tutti concordi: la  cultura  e  il  turismo  sono  il  volano  dei  nostri  territori;  l’ambiente  dev’essere  salvaguardato  per garantire un’adeguata qualità della vita ai nostri cittadini. Eppure pur sembrando facile tessere soluzioni largamente condivise, elaborare un Piano Strategico è cosa rara, o, nel caso di Napoli, mai stata fatta prima. Il motivo è che per scrivere  un Piano che  immagini davvero lo sviluppo  futuro di un’area metropolitana complessa c’è bisogno di condivisione. Ed è ciò che abbiamo fatto: ai diffusi e consolidati temi sullo sviluppo dei nostri territori noi abbiamo innestato una nuova e inedita condivisione.
