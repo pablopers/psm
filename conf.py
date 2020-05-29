@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Manuale Portale Utente"
+settings_project_name = "Piano Strategico Città Metropolitana di Napoli"
 settings_copyright_copyleft = 'Citta Metropolitana di Napoli'
 settings_editor_name = 'Ufficio Relazioni con il Pubblico'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: 1.0'
-settings_file_name = 'portaleutente-manuale-docs'
+settings_file_name = 'Piano Strategico'
 
 
 import sys
