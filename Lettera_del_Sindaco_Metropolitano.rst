@@ -16,7 +16,7 @@ Luigi de Magistris
 .. figure:: media/img002.png
    :alt: La figura mostra la vista del golfo di napoli dall'alto
    :name: gn
-
+   
    
 .. figure:: media/img003.png
    :alt: La figura mostra una panoramica della Reggia di Portici
