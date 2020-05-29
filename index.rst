@@ -10,14 +10,14 @@ Piano Strategico della Città Metropolitana di Napoli
 Questo documento contiene il primo Piano Stratetegico della Città Metropolitana di Napoli
 
 
-|logo_urp| *Ufficio Per le Relazioni con il Pubblico*
+|logo_urp| *documento realizzato a cura dell'Ufficio per le Relazioni con il Pubblico*
 
 :Proprietà: Città Metropolitana di Napoli
 :Publisher: Ufficio Relazioni con il Pubblico
 :Licenza: CC BY-NC-ND 2.0 IT|cc-by-nc-nd|
  
 
-Lettera_del_Sindaco_Metropolitano.rst
+index/Lettera_del_Sindaco_Metropolitano.rst
 
 .. toctree::
   :maxdepth: 3
