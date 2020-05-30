@@ -2,8 +2,6 @@
 Piano Strategico della Città Metropolitana di Napoli
 ####################################################
 
-|immagiNA|
-
 .. highlights::
 
    Questo documento contiene il primo Piano Stratetegico della Città Metropolitana di Napoli
@@ -30,5 +28,5 @@ Piano Strategico della Città Metropolitana di Napoli
 
 
 .. |immagiNA| image:: media/img001.png
-.. |cc-by-nc-nd| image:: assets/images/by-nc-nd.png
+.. |cc-by-nc-nd| image:: media/by-nc-nd.png
 .. |logo_urp| image:: media/logo_urp.png
