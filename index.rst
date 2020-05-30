@@ -11,7 +11,7 @@ Piano Strategico della Città Metropolitana di Napoli
 
 :Proprietà: Città Metropolitana di Napoli
 :Publisher: Ufficio Relazioni con il Pubblico
-:Licenza: CC BY-NC-ND 2.0 IT|cc-by-nc-nd|
+:Licenza: CC BY-NC-ND 2.0 IT |cc-by-nc-nd|
  
    
 
