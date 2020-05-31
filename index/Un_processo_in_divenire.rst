@@ -6,7 +6,7 @@ Ruolo strategico della Città Metropolitana di Napoli
 
  
 Le  autorità  di  tipo  metropolitano  in  tutta  Europa  sono  diventate sempre più importanti con l’accrescersi della centralità dei fenomeni urbani e del superamento del concetto classico di città, ormai sostituito in considerazione del complesso sistema di interdipendenze degli insediamenti che definiscono la natura delle città metropolitane.
-Un’ampia costellazione letteraria sull’argomento[1]_ ha reso evidente, se non oramai scontato, quanto la geografia amministrativa dei Comuni nelle aree metropolitane fosse di per sé totalmente inadeguata ed obsoleta rispetto alla possibilità di gestione di problematiche complesse, le quali non possono che essere analizzate in maniera organica ed in relazione alla scala nazionale e globale.
+Un’ampia costellazione letteraria sull’argomento [1]_ ha reso evidente, se non oramai scontato, quanto la geografia amministrativa dei Comuni nelle aree metropolitane fosse di per sé totalmente inadeguata ed obsoleta rispetto alla possibilità di gestione di problematiche complesse, le quali non possono che essere analizzate in maniera organica ed in relazione alla scala nazionale e globale.
 In ambito territoriale, inoltre, le trasformazioni infrastrutturali e degli insediamenti costruiti si intrecciano coi cambiamenti dello stile di vita dei cittadini, dei ritmi di studio e lavoro, della capacità di muoversi all’interno  di  ambiti  urbani  ampi, dando nuova  connotazione  ai termini di contiguità e prossimità, in cui i confini comunali risultano davvero una marcata linea di detrazione alla visione d’insieme.
 Le dinamiche dei processi economici e sociali di ambiti urbani complessi, inoltre, fanno sì che le grandi aree metropolitane siano sempre più in relazione tra loro mediante **legami transnazionali** di tipo finanziario e commerciale, i quali possiedono una connotazione addirittura più forte dei legami instaurati con il territorio regionale in cui le città sono inserite[2]_.
 
@@ -16,7 +16,7 @@ Le dinamiche dei processi economici e sociali di ambiti urbani complessi, inoltr
    `Gli effetti particolarmente accentuati di questo fenomeno globale di ristrutturazione socio-economica delle città sono i legami diretti in ambito finanziario e commerciale tra New York, Tokyo e Londra, analizzati da S. Sassen. S. Sassen, Le città nell’economia globale, Il Mulino, 1994.`__
    
 
-*“Le città costruiscono loro immagini che le rendono riconoscibili all’esterno, specializzano  le  proprie  risorse  di  scambio,  sono  tornate  a  fare  una  loro politica estera, a tessere alleanze, a creare condizioni per diventare nodi di reti di relazioni economiche e culturali”*[3]_.
+*“Le città costruiscono loro immagini che le rendono riconoscibili all’esterno, specializzano  le  proprie  risorse  di  scambio,  sono  tornate  a  fare  una  loro politica estera, a tessere alleanze, a creare condizioni per diventare nodi di reti di relazioni economiche e culturali”* [3]_.
 
 .. [3]
    `A. Bagnasco, P. Le Gales, Le città nell’Europa contemporanea, Liguori Editore, 2001.`__
