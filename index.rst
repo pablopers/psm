@@ -11,13 +11,12 @@
 :Publisher: Ufficio Relazioni con il Pubblico |logo_urp|
 :Licenza: CC BY-NC-ND 2.0 IT |cc-by-nc-nd|
  
-Lettera_del_Sindaco_Metropolitano.rst
 
 .. toctree::
    :maxdepth: 3
    :numbered:
 
-   
+   Lettera_del_Sindaco_Metropolitano.rst
    index/Un_processo_in_divenire.rst 
 <!--   index/Processo_di_costruzione_delle_scelte_condivise.rst  -->
 <!--   index/Analisi_del_Contesto.rst  -->
