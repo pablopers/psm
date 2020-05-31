@@ -43,10 +43,13 @@ La  classificazione  delle aree  urbane  come *«Functional  Urban  Areas»* fat
 
 Le aree urbane così identificate, vengono classificate in:
 
-1. **Large metropolitan areas** (oltre 1,5 milioni di abitanti);
-2. **Metropolitan areas** (da 500.000 a 1.500.000 abitanti);
-3. **Medium-sized   metropolitan   areas**   (da   200.000   a   500.000 abitanti);
-4. **Small Metropolitan areas** (almeno 50.000 abitanti).
+- **Large metropolitan areas** (oltre 1,5 milioni di abitanti);
+
+- **Metropolitan areas** (da 500.000 a 1.500.000 abitanti);
+
+- **Medium-sized   metropolitan   areas**   (da   200.000   a   500.000 abitanti);
+
+- **Small Metropolitan areas** (almeno 50.000 abitanti).
 
 Delle aree metropolitane italiane - oltre a notare che le stesse, in un’ottica di confronto europeo, risulterebbero minori in numero rispetto a quelle identificate dalla normativa nazionale e dalle regioni a statuto speciale – solo quattro rientrano nelle Large Metro Areas dell’OCSE: **Roma, Milano, Napoli, Torino**.
 
@@ -76,9 +79,11 @@ Le città metropolitane così istituite sono: Roma Capitale, Torino, Milano, Ven
    
 Il comma 2 della Legge 56/2014 definisce le città metropolitane quali enti territoriali di area vasta con le funzioni di cui ai commi da 44 a 46 e con le seguenti finalità istituzionali generali:
 
-1. cura dello sviluppo strategico del territorio metropolitano;
-2. promozione e gestione integrata dei servizi, delle infrastrutture e delle reti di comunicazione di interesse della città metropolitana;
-3. cura delle relazioni istituzionali afferenti al proprio livello, ivi comprese quelle con le città e le aree metropolitane europee.
+- cura dello sviluppo strategico del territorio metropolitano;
+
+- promozione e gestione integrata dei servizi, delle infrastrutture e delle reti di comunicazione di interesse della città metropolitana;
+
+- cura delle relazioni istituzionali afferenti al proprio livello, ivi comprese quelle con le città e le aree metropolitane europee.
 
 
 Ai sensi del comma 44 della medesima Legge, alla città metropolitana sono attribuite le funzioni fondamentali delle province, le funzioni attribuite alla città metropolitana nell'ambito del processo di riordino delle funzioni delle province, nonché, ai sensi dell'articolo 117, secondo comma, lettera p), della Costituzione, le seguenti funzioni fondamentali:
