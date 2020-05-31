@@ -50,6 +50,42 @@ Le aree urbane così identificate, vengono classificate in:
 
 Delle aree metropolitane italiane - oltre a notare che le stesse, in un’ottica di confronto europeo, risulterebbero minori in numero rispetto a quelle identificate dalla normativa nazionale e dalle regioni a statuto speciale – solo quattro rientrano nelle Large Metro Areas dell’OCSE: **Roma, Milano, Napoli, Torino**.
 
-
 In Italia la previsione normativa delle città metropolitane è rimasta per decenni inattuata, seppure la trattazione delle stesse sia rinvenibile già nella Legge 142/1990, la quale individuava espressamente, all’art. 17, nove aree metropolitane quali *“le zone comprendenti i comuni di Torino, Milano, Venezia, Genova, Bologna, Firenze, Roma, Bari, Napoli e gli altri comuni i cui insediamenti abbiano con essi rapporti di stretta integrazione in ordine alle attività economiche, ai servizi essenziali alla vita sociale, nonché alle relazioni culturali e alle caratteristiche territoriali”*.
 
+Le  città  metropolitane  sono  state  poi  formalmente  introdotte  nel novero  degli  enti  locali,  all'articolo  114  della  Costituzione,  con  la Legge 3/2001 di riforma costituzionale.
+
+Il D. Lgs. 267/2000 *“Testo unico delle leggi sull’ordinamento degli enti locali”* individua, in attuazione dei novellati artt. 114, 117 e 118 della Costituzione, all’art. 2, comma 1, quali enti locali *“i comuni, le province, le città metropolitane, le comunità montane, le comunità isolane e le unioni di Comuni”*.
+
+
+A distanza di anni, con la Legge 42/2009 viene aggiunta alla lista anche la città metropolitana di Reggio Calabria.
+Il  lungo  e  tortuoso  percorso  dell’Italia  con  l’istituzione  delle  Città
+Metropolitane   ha,   infine,   il   suo   atto   più   recente   nella   Legge
+56/2014 *“Disposizioni sulle città metropolitane, sulle province, sulle unioni e fusioni di comuni”*, il quale ha comportato un'ampia riforma in materia di enti locali.
+
+La stessa struttura del testo della Legge 56/2014 manifesta il suo tormentato processo di nascita, presentando una evidente scarsa intellegibilità, essendo composta da un solo articolo e ben 151 commi, i quali trattano in ogni caso argomenti diversi quali l'istituzione e la disciplina delle città metropolitane, la ridefinizione del sistema delle province, la nuova disciplina in materia di unioni e fusioni di comuni.
+
+Nel testo normativo le città metropolitane e le province sono entrambe individuate come “enti territoriali di area vasta”. Le prime sostituiscono dal 1° gennaio 2015 le rispettive province, ed i loro territori coincidono amministrativamente con quelli dei preesistenti enti provinciali.
+
+Le città metropolitane così istituite sono: Roma Capitale, Torino, Milano, Venezia, Genova, Bologna, Firenze, Bari, Napoli e Reggio Calabria, alle quali vanno aggiunte quelle delle Regioni a statuto speciale, per un totale di 14 . 
+
+.. figure:: media/img007.png
+   :alt: Le città metropolitane italiane
+   :name: gn
+   
+   Le città metropolitane italiane
+   
+Il comma 2 della Legge 56/2014 definisce le città metropolitane quali enti territoriali di area vasta con le funzioni di cui ai commi da 44 a 46 e con le seguenti finalità istituzionali generali:
+
+1. cura dello sviluppo strategico del territorio metropolitano;
+2. promozione e gestione integrata dei servizi, delle infrastrutture e delle reti di comunicazione di interesse della città metropolitana;
+3. cura delle relazioni istituzionali afferenti al proprio livello, ivi comprese quelle con le città e le aree metropolitane europee.
+
+
+Ai sensi del comma 44 della medesima Legge, alla città metropolitana sono attribuite le funzioni fondamentali delle province, le funzioni attribuite alla città metropolitana nell'ambito del processo di riordino delle funzioni delle province, nonché, ai sensi dell'articolo 117, secondo comma, lettera p), della Costituzione, le seguenti funzioni fondamentali:
+a) adozione e aggiornamento annuale di un piano strategico triennale del territorio metropolitano, che costituisce atto di indirizzo per l'ente e per l'esercizio delle funzioni dei comuni e delle unioni di comuni compresi nel predetto territorio, anche in relazione all'esercizio di funzioni delegate o assegnate dalle regioni, nel rispetto delle leggi delle regioni nelle materie di loro competenza;
+b) pianificazione territoriale generale, ivi comprese le strutture di comunicazione, le reti di servizi e delle infrastrutture appartenenti alla competenza della comunità metropolitana, anche fissando vincoli e obiettivi all'attività e all'esercizio delle funzioni dei comuni compresi nel territorio metropolitano;
+c) strutturazione di sistemi coordinati di gestione dei servizi pubblici, organizzazione dei servizi pubblici di interesse generale di ambito metropolitano. D'intesa con i comuni interessati la città metropolitana può esercitare le funzioni di predisposizione dei documenti di gara, di stazione appaltante, di monitoraggio dei contratti di servizio e di organizzazione di concorsi e procedure selettive;
+d) mobilità e viabilità, anche assicurando la compatibilità e la coerenza della pianificazione urbanistica comunale nell'ambito metropolitano;
+e) promozione e coordinamento dello sviluppo economico e sociale, anche assicurando sostegno e supporto alle attività economiche e di ricerca innovative e coerenti con la vocazione della città metropolitana come delineata nel piano strategico del territorio di cui alla lettera a);
+13
+f) promozione e coordinamento dei sistemi di informatizzazione e di digitalizzazione in ambito metropolitano
