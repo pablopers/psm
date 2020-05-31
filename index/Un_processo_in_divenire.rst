@@ -35,9 +35,11 @@ Se da un lato, dal punto di vista della trattazione letteraria questo concetto a
    
 La  classificazione  delle aree  urbane  come *«Functional  Urban  Areas»* fatta dall’OCSE (Organisation for Economic Co-operation and Development) considera essenzialmente tre aspetti:
 
-1. La **densità di popolazione** delle aree urbane;
-2. L’**estensione  territoriale**  dell’effettiva  area  urbanizzata  con almeno 50.000 abitanti;
-3. Il **grado di interrelazioni e di pendolarismo** delle aree limitrofe con la *«core city»*.
+- La **densità di popolazione** delle aree urbane;
+
+- L’**estensione  territoriale**  dell’effettiva  area  urbanizzata  con almeno 50.000 abitanti;
+
+- Il **grado di interrelazioni e di pendolarismo** delle aree limitrofe con la *«core city»*.
 
 Le aree urbane così identificate, vengono classificate in:
 
