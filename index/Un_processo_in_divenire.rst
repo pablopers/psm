@@ -109,3 +109,34 @@ Gli effetti di questa forte polarizzazione, se da un lato rappresentano delle op
    
 .. [5]
    `La *"Globalization and World Cities Research Network"* (GaWC ), nella sua categorizzazione biennale delle città mondiali conferma Milano come città globale di tipo Alpha insieme a Sydney, Chicago, Francoforte, Madrid, Toronto e Los Angeles.`__
+
+
+Tali cambiamenti nella struttura economica e sociale portano sempre più alla marginalizzazione delle fasce sociali con redditi più bassi ed a forti disuguaglianze territoriali, con differenziazione delle condizioni di vita anche molto significative da quartiere a quartiere della stessa *“core city”*.
+Da un lato quindi le città metropolitane diventano nodi di reti transnazionali su logiche proprie sempre in evoluzione, in continua competizione tra loro per attirare investimenti, ma dall’altro rischiano la continua frammentazione sociale ed economica al proprio interno [6]_.
+
+.. [6]
+   `A. Bagnasco, P. Le Gales, “Le città nell’Europa contemporanea”, Liguori Editore, 2001.`__
+   
+.. figure:: /media/img008.png
+   :alt: La figura mostra le caratteristiche comuni delle grandi aree metropolitane - Analisi SWOT
+   :name: cm   
+   
+   Caratteristiche comuni delle grandi aree metropolitane
+   Analisi SWOT
+
+I nuovi fenomeni urbani che accomunano le grandi città, assumo caratteristiche peculiari nell’area metropolitana di Napoli. Se la crescita demografica e l’espansione territoriale dal dopoguerra ad oggi è un fenomeno accomunabile ad altre città italiane ed europee, assolutamente eccezionale e macroscopico è invece l’inurbamento dell’entroterra, costituente la corona intorno alla *core city*.
+L’area metropolitana di Napoli è l’ottava in Europa per dimensione, paragonabile a città quali Barcellona ed Atene, nonché la terza città italiana per PIL dopo Milano e Roma.
+
+In Italia le 14 città metropolitane si estendono su una superficie di quasi 50mila km2, pari al 16,5% del territorio nazionale; in queste aree risiede circa un italiano su tre (un totale di circa 22 mln di persone). Esse costituiscono la colonna portante del Paese in termini di attrattività di investimento e possibilità di connessione internazionale, concorrendo in maniera decisiva alla competitività dell’Italia nel mondo.
+Tra queste aree, quella di Napoli rappresenta una delle più complesse, soprattutto per le peculiari caratteristiche demografiche, socio-economiche e geomorfologiche, come è possibile evincere dai diagrammi che mettono a confronto alcuni dati essenziali delle città metropolitane italiane, riportati in calce al presente paragrafo.
+Napoli è, inoltre, uno dei nodi fondamentali all’interno delle reti trans-europee di trasporto (TEN-T) per il collegamento tra i diversi Stati la UE, realizzato mediante 9 corridoi, costituiti da infrastrutture lineari (ferroviarie, stradali, fluviali) e puntuali (nodi urbani, porti, interporti e aeroporti).
+
+.. figure:: /media/img009.png
+   :alt: La figura mostra le reti trans-europee di trasporto (TEN-T) - I 9 corridoi
+   :name: cm   
+   
+   Reti trans-europee di trasporto (TEN-T)
+   I 9 corridoi
+   
+   
+   
