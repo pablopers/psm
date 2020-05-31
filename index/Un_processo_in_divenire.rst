@@ -107,5 +107,5 @@ Gli effetti di questa forte polarizzazione, se da un lato rappresentano delle op
 .. [4]
    `Si rimanda alla definizione di *"Functional Urban Region"* (FUR) del Comitato per le Regioni dell’Unione Europea, poi evolutosi in “Metropolitan Area” (MA).`__
    
- .. [5]
+.. [5]
    `La *"Globalization and World Cities Research Network"* (GaWC ), nella sua categorizzazione biennale delle città mondiali conferma Milano come città globale di tipo Alpha insieme a Sydney, Chicago, Francoforte, Madrid, Toronto e Los Angeles.`__
