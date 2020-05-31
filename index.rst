@@ -6,7 +6,7 @@ Piano Strategico della Città Metropolitana di Napoli
 
 .. highlights::
 
-   Questo documento contiene il primo Piano Stratetegico della Città Metropolitana di Napoli
+   Questo documento contiene il primo Piano Strategico della Città Metropolitana di Napoli
 
 
 |logo_urp| *documento realizzato a cura dell'Ufficio per le Relazioni con il Pubblico*
@@ -17,6 +17,8 @@ Piano Strategico della Città Metropolitana di Napoli
  
 .. toctree::
    :maxdepth: 1
+   
+   
    Lettera_del_Sindaco_Metropolitano.rst
 
 .. toctree::
