@@ -1,19 +1,35 @@
-A cosa serve il Portale Utenti
-==============================
+Un processo in divenire
+=======================
 
-Il **Portale Utenti di vTiger CRM** si dimostrerà molto utile per implementare un sistema di ticketing, una area privata per ogni utente che consenta di accedere a tutte le richieste effettuate, ai documenti inviati e alla manualistica, procedure ecc.
+Ruolo strategico della Città Metropolitana di Napoli
+----------------------------------------------------
 
-Il **Portale Utenti di vTiger CRM** permette principalmente di generare Ticket di supporto. A seguito della creazione del Ticket, riceverete sul nostro CRM e su Email la notifica e potrete verificare lo stato e interloquire con l’Urp .
-
-Questo è solo l'inizio, perché il **Portale Utenti di vTiger CRM** offre anche i seguenti vantaggi:
-
-1. **Nessun rischio di smarrimento:** Tutte le comunicazioni tra Urp e Utenti vengono registrate in una pagina personale riservata;
-2. **Efficienza e risparmio di tempo:** Il Portale Clienti permette di gestire anche grandi quantità di richieste essendo sempre chiaro e semplice nei processi. Questo significa un risparmio in termini di tempo e risorse.
-3. **Ticket consultabili nel tempo:** Al contrario delle email, che possono essere smarrite, i Ticket di assistenza creati attraverso il Portale Clienti rimarranno memorizzate per future referenze;
-4. **Multicanalità:** Ogni Ticket verrà assegnato al personale di competenza in maniera immediata e ogni utente avrà la possibilità di verificare lo stato di avanzamento della richiesta, il nome del responsabile a cui è assegnato il ticket, i tempi di lavorazione programmati e quelli realmente impiegati, anche attraverso mail e sms;
-5. **Possibilità di Allegati:** Il Portale Clienti di vTiger CRM gestisce al meglio gli allegati e permette di ricevere ogni tipo di file da parte vostra
-6. **Pagina web riservata:** Ogni Utente riceverà l'accesso ad una pagina web personale dove poter inserire, ogni qualvolta si rendesse necessario, i Ticket di richiesta di pubblicazione o assistenza, consultare lo stato dei precedenti e chattare in tempo reale con l’Urp attraverso i commenti;
-7. **Assistenza monitorata:** E' possibile verificare l'andamento e la capacità da parte del Team di lavoro nella risoluzione dei Ticket e la conformità al Contratto di Servizio (SLA) [1]_
+ 
+Le  autorità  di  tipo  metropolitano  in  tutta  Europa  sono  diventate
+sempre più importanti con l’accrescersi della centralità dei fenomeni urbani e del superamento del concetto classico di città, ormai sostituito in considerazione del complesso sistema di interdipendenze degli insediamenti che definiscono la natura delle città metropolitane.
+Un’ampia costellazione letteraria sull’argomento[1]_ ha reso evidente, se non oramai scontato, quanto la geografia amministrativa dei Comuni nelle aree metropolitane fosse di per sé totalmente inadeguata ed obsoleta rispetto alla possibilità di gestione di problematiche complesse, le quali non possono che essere analizzate in maniera organica ed in relazione alla scala nazionale e globale.
+In ambito territoriale, inoltre, le trasformazioni infrastrutturali e degli insediamenti costruiti si intrecciano coi cambiamenti dello stile di vita dei cittadini, dei ritmi di studio e lavoro, della capacità di muoversi all’interno  di  ambiti  urbani  ampi,  dando  nuova  connotazione  ai termini di contiguità e prossimità, in cui i confini comunali risultano davvero una marcata linea di detrazione alla visione d’insieme.
+Le dinamiche dei processi economici e sociali di ambiti urbani complessi, inoltre, fanno sì che le grandi aree metropolitane siano sempre più in relazione tra loro mediante **legami transnazionali** di tipo finanziario e commerciale, i quali possiedono una connotazione addirittura più forte dei legami instaurati con il territorio regionale in
+cui le città sono inserite[2]_.
 
 .. [1]
-   `Contratto di Servizio SLA <https://docs-italia-staging.teamdigitale.it/cittametropolitananapoli/sla/portaleutente-sla-docs/it/master/>`__
+   `Testi di riferimento sul tema a cui si rimanda: S. Sassen, Le città nell’economia globale, Bologna, il Mulino, 1994, P. Le Gales, Le città europee. Società urbane, globalizzazione, governo locale, il Mulino, 2006.`__
+.. [2]
+   `Gli effetti particolarmente accentuati di questo fenomeno globale di ristrutturazione socio-economica delle città sono i legami diretti in ambito finanziario e commerciale tra New York, Tokyo e Londra, analizzati da S. Sassen. S. Sassen, Le città nell’economia globale, Il Mulino, 1994.`__
+   
+
+*“Le città costruiscono loro immagini che le rendono riconoscibili all’esterno, specializzano  le  proprie  risorse  di  scambio,  sono  tornate  a  fare  una  loro politica estera, a tessere alleanze, a creare condizioni per diventare nodi di reti di relazioni economiche e culturali”*[3]_.
+
+.. [3]
+   `A. Bagnasco, P. Le Gales, Le città nell’Europa contemporanea, Liguori Editore, 2001.`__
+
+**Le complesse interdipendenze territoriali** da un lato e le necessità di **proiezione globale** dall’altro, richiedono per le aree metropolitane soluzioni pensate su una scala territoriale che valichi il confine amministrativo della città in senso stretto.
+
+
+Se da un lato, dal punto di vista della trattazione letteraria questo concetto appare approfondito sotto molteplici punti di vista, dall’altro, come spesso accade, la normativa ha impiegato un tempo lungo  e travagliato  per  tradurre  questa  evidenza  in  un  **sistema amministrativo innovativo** e rispondente alle nuove realtà territoriali.
+
+.. figure:: media/img006.png
+   :alt: Le 110 aree metropolitane europee con almeno 500.000 abitanti (Fonte OCSE)
+   :name: ag 
+
+   Le 110 aree metropolitane europee con almeno 500.000 abitanti (Fonte OCSE)
