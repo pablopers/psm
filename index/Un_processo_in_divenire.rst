@@ -26,7 +26,7 @@ Le dinamiche dei processi economici e sociali di ambiti urbani complessi, inoltr
 
 Se da un lato, dal punto di vista della trattazione letteraria questo concetto appare approfondito sotto molteplici punti di vista, dall’altro, come spesso accade, la normativa ha impiegato un tempo lungo  e travagliato  per  tradurre  questa  evidenza  in  un  **sistema amministrativo innovativo** e rispondente alle nuove realtà territoriali.
 
-.. figure:: media/img006.png
+.. figure:: /media/img006.png
    :alt: Le 110 aree metropolitane europee con almeno 500.000 abitanti (Fonte OCSE)
    :name: ag 
 
@@ -68,7 +68,7 @@ Nel testo normativo le città metropolitane e le province sono entrambe individu
 
 Le città metropolitane così istituite sono: Roma Capitale, Torino, Milano, Venezia, Genova, Bologna, Firenze, Bari, Napoli e Reggio Calabria, alle quali vanno aggiunte quelle delle Regioni a statuto speciale, per un totale di 14 . 
 
-.. figure:: media/img007.png
+.. figure:: /media/img007.png
    :alt: Le città metropolitane italiane
    :name: gn
    
