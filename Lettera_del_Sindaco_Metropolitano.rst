@@ -11,6 +11,7 @@ Città Metropolitana si pone come motore e agente di cambiamento, luogo di incon
 A questo scopo il Consiglio Metropolitano ha avviato il primo percorso di pianificazione strategica, nel novembre 2018, individuando preliminarmente direttrici che contemplino come orizzonte costante da traguardare la **sostenibilità ambientale** e lo **sviluppo economico**.
 Il  percorso  avviato  è  tutt’ora  in  itinere,  il  processo  partecipativo  vedrà  sempre  più  coinvolgere istituzioni, enti ed associazioni, e porterà in tempi brevi all’approvazione del primo Piano Strategico della Città Metropolitana di Napoli.
 Il nostro è un processo, un **progetto in divenire**. Siamo solo all’inizio.
+
 Luigi de Magistris 
 
 .. figure:: /media/img002.png
