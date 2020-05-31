@@ -16,6 +16,7 @@ Piano Strategico della Città Metropolitana di Napoli
 :Licenza: CC BY-NC-ND 2.0 IT |cc-by-nc-nd|
  
 .. toctree::
+   :maxdepth: 1
    Lettera_del_Sindaco_Metropolitano.rst
 
 .. toctree::
