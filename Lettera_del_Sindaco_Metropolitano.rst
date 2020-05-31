@@ -18,13 +18,13 @@ Luigi de Magistris
    :alt: La figura mostra la vista del golfo di napoli dall'alto
    :name: gn
    
-   Fig.1
+   Il golfo di Napoli
    
 .. figure:: /media/img003.png
    :alt: La figura mostra una panoramica della Reggia di Portici
    :name: rp
 
-   Fig.2
+   La Reggia di Portici
    
 .. figure:: /media/img004.png
    :alt: La figura mostra uno scorcio del golfo di Napoli
