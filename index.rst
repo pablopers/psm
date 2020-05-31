@@ -1,7 +1,3 @@
-####################################################
-Piano Strategico della Città Metropolitana di Napoli
-####################################################
-
 |immagiNA|
 
 .. highlights::
