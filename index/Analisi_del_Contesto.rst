@@ -5,9 +5,3 @@ L’ufficio Urp ha istituito un servizio per le richieste di pubblicazioni sul p
 
 Per la gestione, tra l’utente che effettua la richiesta e il dipendente dell’ufficio **Urp** che gestisce e processa la pubblicazione, è stato creato il Portale Utenti, un portale che consente la gestione personalizzata delle singole richieste di pubblicazione.
 
-.. figure:: /media/home.png
-   :name: home portale utente
-   :alt: Home Page Portale Utente
-   :align: center
-   
-   Home Portale Utenti
