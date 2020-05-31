@@ -33,3 +33,23 @@ Se da un lato, dal punto di vista della trattazione letteraria questo concetto a
    :name: ag 
 
    Le 110 aree metropolitane europee con almeno 500.000 abitanti (Fonte OCSE)
+   
+   
+La  classificazione  delle aree  urbane  come *«Functional  Urban  Areas»* fatta dall’OCSE (Organisation for Economic Co-operation and Development) considera essenzialmente tre aspetti:
+
+1. La **densità di popolazione** delle aree urbane;
+2. L’**estensione  territoriale**  dell’effettiva  area  urbanizzata  con almeno 50.000 abitanti;
+3. Il **grado di interrelazioni e di pendolarismo** delle aree limitrofe con la *«core city»*.
+
+Le aree urbane così identificate, vengono classificate in:
+
+1. **Large metropolitan areas** (oltre 1,5 milioni di abitanti);
+2. **Metropolitan areas** (da 500.000 a 1.500.000 abitanti);
+3. **Medium-sized   metropolitan   areas**   (da   200.000   a   500.000 abitanti);
+4. **Small Metropolitan areas** (almeno 50.000 abitanti).
+
+Delle aree metropolitane italiane - oltre a notare che le stesse, in un’ottica di confronto europeo, risulterebbero minori in numero rispetto a quelle identificate dalla normativa nazionale e dalle regioni a statuto speciale – solo quattro rientrano nelle Large Metro Areas dell’OCSE: **Roma, Milano, Napoli, Torino**.
+
+
+In Italia la previsione normativa delle città metropolitane è rimasta per decenni inattuata, seppure la trattazione delle stesse sia rinvenibile già nella Legge 142/1990, la quale individuava espressamente, all’art. 17, nove aree metropolitane quali *“le zone comprendenti i comuni di Torino, Milano, Venezia, Genova, Bologna, Firenze, Roma, Bari, Napoli e gli altri comuni i cui insediamenti abbiano con essi rapporti di stretta integrazione in ordine alle attività economiche, ai servizi essenziali alla vita sociale, nonché alle relazioni culturali e alle caratteristiche territoriali”*.
+
