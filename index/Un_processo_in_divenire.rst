@@ -4,14 +4,6 @@ Un processo in divenire
 Ruolo strategico della Città Metropolitana di Napoli
 ----------------------------------------------------
 
-.. admonition:: le città metropolitane
-   
-   le città metropolitane
-
-
-.. tip::
-        Suggerimento [tip]
-
 .. highlights:: le città metropolitane
 
 
@@ -37,7 +29,7 @@ Se da un lato, dal punto di vista della trattazione letteraria questo concetto a
 
 .. figure:: /media/img006.png
    :alt: Le 110 aree metropolitane europee con almeno 500.000 abitanti (Fonte OCSE)
-   :name: ag 
+   :name: cm006 
 
    Le 110 aree metropolitane europee con almeno 500.000 abitanti (Fonte OCSE)
    
@@ -80,7 +72,7 @@ Le città metropolitane così istituite sono: Roma Capitale, Torino, Milano, Ven
 
 .. figure:: /media/img007.png
    :alt: Le città metropolitane italiane
-   :name: gn
+   :name: cm007
    
    Le città metropolitane italiane
    
@@ -141,7 +133,7 @@ Napoli è, inoltre, uno dei nodi fondamentali all’interno delle reti trans-eur
 
 .. figure:: /media/img009.png
    :alt: La figura mostra le reti trans-europee di trasporto (TEN-T) - I 9 corridoi
-   :name: cm   
+   :name: cm009   
    
    Reti trans-europee di trasporto (TEN-T)
    I 9 corridoi
@@ -150,7 +142,7 @@ All’interno della Core Network, Napoli è un nodo fondamentale del Corridoio S
    
 .. figure:: /media/img10-15.png
    :alt: La figura mostra le principali reti di collegamento tra le Città Metropolitane italiane continua
-   :name: cm   
+   :name: cm010-015   
    
    Principali reti di collegamento tra le Città Metropolitane italiane
    
@@ -160,25 +152,25 @@ L’area metropolitana di Napoli costituisce il principale hub del sud italia in
    
 .. figure:: /media/img16-17.png
    :alt: La figura mostra le principali reti di mobilità nell'area metropolitana di Napoli
-   :name: cm   
+   :name: cm16-17   
    
    Principali reti di mobilità nell'area metropolitana di Napoli
 
 .. figure:: /media/img18-20.png
    :alt: La figura mostra la conformazione fisica del territorio e area urbanizzata
-   :name: cm   
+   :name: cm18-20   
    
    Conformazione fisica del territorio e area urbanizzata
    
 .. figure:: /media/img021.png
    :alt: Superficie territoriale della Città Metropolitana di Napoli (KM\ :sup:`2`) in confronto ai dati regionali nella Regione Campania
-   :name: cm   
+   :name: cm021   
    
    Superficie territoriale della Città Metropolitana di Napoli (KM\ :sup:`2`) in confronto ai dati regionali nella Regione Campania
 
 .. figure:: /media/img022.png
    :alt: Popolazione della Città Metropolitan di Napoli (ab.) in confronto ai dati regionali (anno 2018)
-   :name: cm   
+   :name: cm022   
    
    Popolazione della Città Metropolitan di Napoli (ab.) in confronto ai dati regionali (anno 2018)
    
@@ -198,7 +190,7 @@ Allo sviluppo demografico si deve poi associare in uno stretto rapporto di inter
 
 .. figure:: /media/img023.png
    :alt: Densità di popolazione nell'Europa del Sud-Ovest (fonte: https://www.geonamers.org)
-   :name: cm   
+   :name: cm023   
    
    Densità di popolazione nell'Europa del Sud-Ovest (fonte: https://www.geonamers.org)
    
