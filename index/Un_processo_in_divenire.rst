@@ -4,16 +4,37 @@ Un processo in divenire
 Ruolo strategico della Città Metropolitana di Napoli
 ----------------------------------------------------
 
+.. epigraph::
+
+   le città metropolitane
+
 .. admonition:: le città metropolitane
 
-.. sidebar:: sidebar title
+.. highlights:: le città metropolitane
 
-   Le città metropolitane
+.. hint::
+        Suggerimento [hint]
 
+.. important::
+        Importante [important]
 
-.. highlights::
-   
-   le città metropolitane
+.. note:: 
+        Questa è una nota [note]
+
+.. tip::
+        Suggerimento [tip]
+
+.. warning:: 
+        Attenzione! Lingua sconosciuta
+
+.. admonition:: Nota importante
+
+   Questa è una nota personalizzata. [admonition]
+
+.. admonition:: Esempio
+
+   Admonition di esempio.
+
 
 
 Le  autorità  di  tipo  metropolitano  in  tutta  Europa  sono  diventate sempre più importanti con l’accrescersi della centralità dei fenomeni urbani e del superamento del concetto classico di città, ormai sostituito in considerazione del complesso sistema di interdipendenze degli insediamenti che definiscono la natura delle città metropolitane.
