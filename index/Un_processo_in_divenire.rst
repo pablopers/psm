@@ -4,50 +4,22 @@ Un processo in divenire
 Ruolo strategico della Città Metropolitana di Napoli
 ----------------------------------------------------
 
-.. epigraph::
-
-   le città metropolitane
-
 .. admonition:: le città metropolitane
-
-.. highlights:: le città metropolitane
-
-.. hint::
-        Suggerimento [hint]
-
-.. important::
-        Importante [important]
-
-.. note:: 
-        Questa è una nota [note]
-
-.. tip::
-        Suggerimento [tip]
-
-.. warning:: 
-        Attenzione! Lingua sconosciuta
-
-.. admonition:: Nota importante
-
-   Questa è una nota personalizzata. [admonition]
-
-.. admonition:: Esempio
-
-   Admonition di esempio.
-
-
 
 Le  autorità  di  tipo  metropolitano  in  tutta  Europa  sono  diventate sempre più importanti con l’accrescersi della centralità dei fenomeni urbani e del superamento del concetto classico di città, ormai sostituito in considerazione del complesso sistema di interdipendenze degli insediamenti che definiscono la natura delle città metropolitane.
 Un’ampia costellazione letteraria sull’argomento [1]_ 
+
 .. [1]
    `Testi di riferimento sul tema a cui si rimanda: S. Sassen, Le città nell’economia globale, Bologna, il Mulino, 1994, P. Le Gales, Le 
 città europee. Società urbane, globalizzazione, governo locale, il Mulino, 2006.`__
 ha reso evidente, se non oramai scontato, quanto la geografia amministrativa dei Comuni nelle aree metropolitane fosse di per sé totalmente inadeguata ed obsoleta rispetto alla possibilità di gestione di problematiche complesse, le quali non possono che essere analizzate in maniera organica ed in relazione alla scala nazionale e globale.
 In ambito territoriale, inoltre, le trasformazioni infrastrutturali e degli insediamenti costruiti si intrecciano coi cambiamenti dello stile di vita dei cittadini, dei ritmi di studio e lavoro, della capacità di muoversi all’interno  di  ambiti  urbani  ampi, dando nuova  connotazione  ai termini di contiguità e prossimità, in cui i confini comunali risultano davvero una marcata linea di detrazione alla visione d’insieme.
 Le dinamiche dei processi economici e sociali di ambiti urbani complessi, inoltre, fanno sì che le grandi aree metropolitane siano sempre più in relazione tra loro mediante **legami transnazionali** di tipo finanziario e commerciale, i quali possiedono una connotazione addirittura più forte dei legami instaurati con il territorio regionale in cui le città sono inserite [2]_.
+
 .. [2]
    `Gli effetti particolarmente accentuati di questo fenomeno globale di ristrutturazione socio-economica delle città sono i legami diretti in ambito finanziario e commerciale tra New York, Tokyo e Londra, analizzati da S. Sassen. S. Sassen, Le città nell’economia globale, Il Mulino, 1994.`__
 *“Le città costruiscono loro immagini che le rendono riconoscibili all’esterno, specializzano  le  proprie  risorse  di  scambio,  sono  tornate  a  fare  una  loro politica estera, a tessere alleanze, a creare condizioni per diventare nodi di reti di relazioni economiche e culturali”* [3]_.
+
 .. [3]
    `A. Bagnasco, P. Le Gales, Le città nell’Europa contemporanea, Liguori Editore, 2001.`__
 **Le complesse interdipendenze territoriali** da un lato e le necessità di **proiezione globale** dall’altro, richiedono per le aree metropolitane soluzioni pensate su una scala territoriale che valichi il confine amministrativo della città in senso stretto.
@@ -190,3 +162,41 @@ L’area metropolitana di Napoli costituisce il principale hub del sud italia in
    :name: cm   
    
    Conformazione fisica del territorio e area urbanizzata
+   
+.. figure:: /media/img021.png
+   :alt: Superficie territoriale della Città Metropolitana di Napoli (KM\ :sup:`2`) in confronto ai dati regionali nella Regione Campania
+   :name: cm   
+   
+   Superficie territoriale della Città Metropolitana di Napoli (KM\ :sup:`2`) in confronto ai dati regionali nella Regione Campania
+
+.. figure:: /media/img022.png
+   :alt: Popolazione della Città Metropolitan di Napoli (ab.) in confronto ai dati regionali (anno 2018)
+   :name: cm   
+   
+   Popolazione della Città Metropolitan di Napoli (ab.) in confronto ai dati regionali (anno 2018)
+   
+Il territorio amministrativo della Città Metropolitana di Napoli si estende per un raggio di circa 40 km dalla città capoluogo ed ha una superficie totale di 1.171 km\ :sup:`2`., comprendente 92 comuni, con una popolazione di oltre 3 milioni di abitanti (il 53% dell’intera Regione Campania).
+Se si considera, però, la vera conurbazione fisica, senza fermarsi ai confini amministrativi della ex provincia (ricalcati dall’attuale città metropolitana), vanno necessariamente inglobati i comuni del basso casertano e dell’alto salernitano, i quali definiscono a partire dalla città di Napoli un unicum urbano senza soluzione di continuità, con stime di popolazione fino a 3.800.000 [7]_.
+
+.. [7]
+   `R. Leonardi, R. Y. Nanetti, “La sfida di Napoli. Capitale sociale, sviluppo e sicurezza”, Guerini e Associati, 2008.`__
+
+Seppure la sua estensione amministrativa sia limitata (la distanza tra Napoli e Caserta è pari al raggio del raccordo anulare del solo centro di Roma), la densità di popolazione tocca vette paragonabili a città asiatiche da record mondiale, rendendo la Città Metropolitana di Napoli una delle aree urbane territorialmente più compatte e congestionate d’Europa.
+Nel periodo intercensuario tra il 1951 ed il 2011 la popolazione urbana cala del 39,4% mentre quella della provincia mostra una crescita del 9,6%. Cresce quindi il peso delle aree interne, intorno alla città capoluogo, distribuendo il flusso di persone e merci al di fuori della cinta urbana.
+Il consistente peso demografico della provincia di Napoli è confermato dalla presenza di ben 10 comuni su 92 con più di 50.000 abitanti, saldati tra di loro in un’unica, enorme, periferia indifferenziata che circonda la città di Napoli.
+Allo sviluppo demografico si deve poi associare in uno stretto rapporto di interdipendenza, ovviamente, anche quello economico e produttivo che determina e condiziona i flussi delle persone e delle merci [8]_.
+
+.. [8]
+   `Seminario di presentazione del Rapporto Giorgio Rota su Napoli “Ci vuole una terra per vedere il mare”.`__
+
+.. figure:: /media/img023.png
+   :alt: Densità di popolazione nell'Europa del Sud-Ovest (fonte: https://www.geonamers.org)
+   :name: cm   
+   
+   Densità di popolazione nell'Europa del Sud-Ovest (fonte: https://www.geonamers.org)
+   
+Il protagonismo evidente e storicamente consolidato di Napoli come metropoli del Mediterraneo e chiave dello sviluppo economico dell’intero Mezzogiorno d’Italia, si rafforza all’interno del Piano Strategico nella sperimentazione di policy, azioni e progetti, con una forte connotazione operativa.
+Come costruire una città metropolitana vivibile? Quali modelli economici si vogliono traguardare? Quali politiche pubbliche per creare sviluppo contrastando le disuguaglianze? Come proiettarsi sulla scala globale valorizzando il capitale territoriale [9]_?
+
+.. [9]
+   `*“Il capitale territoriale allude non soltanto ai beni pubblici, al capitale fisso sociale e al capitale produttivo, ma anche al capitale sociale incorporato nei luoghi sotto forma di senso di appartenenza e di tradizioni identitarie consolidate, e di capitale relazionale inteso come capacità di cooperare, di fare rete su ambiti rerritoriali pertinenti e su sfide complesse quali ad esempio la salvaguardia per patrimonio culturale e paesistico.”* M. C. Gibelli, *“Riflessioni sull’intercomunalità”*, in M. Baioni (a cura di), *“La costruzione della città pubblica”*, Alinea editrice, 2008.`__
