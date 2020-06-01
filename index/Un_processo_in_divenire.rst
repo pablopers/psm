@@ -6,12 +6,17 @@ Ruolo strategico della Città Metropolitana di Napoli
 
  
 Le  autorità  di  tipo  metropolitano  in  tutta  Europa  sono  diventate sempre più importanti con l’accrescersi della centralità dei fenomeni urbani e del superamento del concetto classico di città, ormai sostituito in considerazione del complesso sistema di interdipendenze degli insediamenti che definiscono la natura delle città metropolitane.
-Un’ampia costellazione letteraria sull’argomento [1]_ ha reso evidente, se non oramai scontato, quanto la geografia amministrativa dei Comuni nelle aree metropolitane fosse di per sé totalmente inadeguata ed obsoleta rispetto alla possibilità di gestione di problematiche complesse, le quali non possono che essere analizzate in maniera organica ed in relazione alla scala nazionale e globale.
+Un’ampia costellazione letteraria sull’argomento [1]_ 
+
+.. [1]
+   `Testi di riferimento sul tema a cui si rimanda: S. Sassen, Le città nell’economia globale, Bologna, il Mulino, 1994, P. Le Gales, Le 
+   
+città europee. Società urbane, globalizzazione, governo locale, il Mulino, 2006.`__
+ha reso evidente, se non oramai scontato, quanto la geografia amministrativa dei Comuni nelle aree metropolitane fosse di per sé totalmente inadeguata ed obsoleta rispetto alla possibilità di gestione di problematiche complesse, le quali non possono che essere analizzate in maniera organica ed in relazione alla scala nazionale e globale.
 In ambito territoriale, inoltre, le trasformazioni infrastrutturali e degli insediamenti costruiti si intrecciano coi cambiamenti dello stile di vita dei cittadini, dei ritmi di studio e lavoro, della capacità di muoversi all’interno  di  ambiti  urbani  ampi, dando nuova  connotazione  ai termini di contiguità e prossimità, in cui i confini comunali risultano davvero una marcata linea di detrazione alla visione d’insieme.
 Le dinamiche dei processi economici e sociali di ambiti urbani complessi, inoltre, fanno sì che le grandi aree metropolitane siano sempre più in relazione tra loro mediante **legami transnazionali** di tipo finanziario e commerciale, i quali possiedono una connotazione addirittura più forte dei legami instaurati con il territorio regionale in cui le città sono inserite [2]_.
 
-.. [1]
-   `Testi di riferimento sul tema a cui si rimanda: S. Sassen, Le città nell’economia globale, Bologna, il Mulino, 1994, P. Le Gales, Le città europee. Società urbane, globalizzazione, governo locale, il Mulino, 2006.`__
+
 .. [2]
    `Gli effetti particolarmente accentuati di questo fenomeno globale di ristrutturazione socio-economica delle città sono i legami diretti in ambito finanziario e commerciale tra New York, Tokyo e Londra, analizzati da S. Sassen. S. Sassen, Le città nell’economia globale, Il Mulino, 1994.`__
    
@@ -101,15 +106,17 @@ Gli artt. 31-35 dello Statuto definiscono le funzioni della Città Metropolitana
 
 *“Per il perseguimento di tali obiettivi il Piano strategico garantisce e promuove, attraverso l’individuazione e la messa a sistema delle grandi opzioni di sviluppo, la salvaguardia del patrimonio naturalistico, paesaggistico e artistico, il risanamento dell’ambiente e del tessuto urbano, la valorizzazione delle eccellenze territoriali, l’ottimizzazione delle reti di comunicazione e dell’offerta dei servizi pubblici, il rafforzamento dei livelli di coesione e di integrazione sociale, il potenziamento della capacità attrattiva, di accessibilità e di relazioni dell’area metropolitana.”*
 Al fine di espletare fattivamente il ruolo fondamentale attribuito all’Ente, di programmazione e cura dello sviluppo strategico del territorio metropolitano, il Piano Strategico si configura, dunque, come strumento indispensabile per la costruzione di una visione condivisa di sviluppo della Città Metropolitana di Napoli.
-Nell’area metropolitana di Napoli gli effetti della polarizzazione economica e funzionale della “regione urbana funzionale” [4]_ risultano particolarmente evidenti, sia rispetto a tutto il sud Italia, sia rispetto anche a diverse altre città metropolitane, ad eccezione forse di Milano che rappresenta un ancor più evidente nucleo *offshore*, totalmente slegato dal contesto territoriale regionale e finanche nazionale, in grado di proiettarsi direttamente, in quanto città metropolitana, in Europa e nel mondo [5]_.
-Gli effetti di questa forte polarizzazione, se da un lato rappresentano delle opportunità e possono costituire un punto di forza per la catalizzazione di investimenti – di cui Milano tra tutte ha saputo negli ultimi anni certamente approfittare – d’altro canto portano anche con sé in tutte le aree metropolitane, come a Napoli, una serie di effetti di difficile gestione, quali la crescita di soggetti deboli e dell’insicurezza urbana, soprattutto a causa dei cambiamenti del mercato del lavoro.
+Nell’area metropolitana di Napoli gli effetti della polarizzazione economica e funzionale della “regione urbana funzionale” [4]_
 
 .. [4]
    `Si rimanda alla definizione di *"Functional Urban Region"* (FUR) del Comitato per le Regioni dell’Unione Europea, poi evolutosi in “Metropolitan Area” (MA).`__
    
+risultano particolarmente evidenti, sia rispetto a tutto il sud Italia, sia rispetto anche a diverse altre città metropolitane, ad eccezione forse di Milano che rappresenta un ancor più evidente nucleo *offshore*, totalmente slegato dal contesto territoriale regionale e finanche nazionale, in grado di proiettarsi direttamente, in quanto città metropolitana, in Europa e nel mondo [5]_.
+
 .. [5]
    `La *"Globalization and World Cities Research Network"* (GaWC ), nella sua categorizzazione biennale delle città mondiali conferma Milano come città globale di tipo Alpha insieme a Sydney, Chicago, Francoforte, Madrid, Toronto e Los Angeles.`__
-
+   
+Gli effetti di questa forte polarizzazione, se da un lato rappresentano delle opportunità e possono costituire un punto di forza per la catalizzazione di investimenti – di cui Milano tra tutte ha saputo negli ultimi anni certamente approfittare – d’altro canto portano anche con sé in tutte le aree metropolitane, come a Napoli, una serie di effetti di difficile gestione, quali la crescita di soggetti deboli e dell’insicurezza urbana, soprattutto a causa dei cambiamenti del mercato del lavoro.
 
 Tali cambiamenti nella struttura economica e sociale portano sempre più alla marginalizzazione delle fasce sociali con redditi più bassi ed a forti disuguaglianze territoriali, con differenziazione delle condizioni di vita anche molto significative da quartiere a quartiere della stessa *“core city”*.
 Da un lato quindi le città metropolitane diventano nodi di reti transnazionali su logiche proprie sempre in evoluzione, in continua competizione tra loro per attirare investimenti, ma dall’altro rischiano la continua frammentazione sociale ed economica al proprio interno [6]_.
@@ -138,7 +145,6 @@ Napoli è, inoltre, uno dei nodi fondamentali all’interno delle reti trans-eur
    Reti trans-europee di trasporto (TEN-T)
    I 9 corridoi
    
-   
 All’interno della Core Network, Napoli è un nodo fondamentale del Corridoio Scandinavo-Mediterraneo che da Helsinki passa per Amburgo e arriva in Italia attraverso il valico del Brennero, collegando Trento, Verona, Bologna, Firenze, Livorno, Roma, Napoli, Bari, Catanzaro, Messina e Palermo.
    
 .. figure:: /media/img10-15.png
@@ -147,8 +153,8 @@ All’interno della Core Network, Napoli è un nodo fondamentale del Corridoio S
    
    Principali reti di collegamento tra le Città Metropolitane italiane
    
-
 L’area metropolitana di Napoli costituisce il principale hub del sud italia in termini infrastrutturali e logistici. Qui la linea ferrovia si divide in due rami:
 - La linea veloce sull’asse Palermo e Malta (corridoio Scandinavo-Mediterraneo)
 - La linea veloce ad alta frequentazione fino a Bari e alla parte bassa della Puglia
    
+
