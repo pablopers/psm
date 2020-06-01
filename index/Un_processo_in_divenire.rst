@@ -179,4 +179,14 @@ L’area metropolitana di Napoli costituisce il principale hub del sud italia in
 - La linea veloce sull’asse Palermo e Malta (corridoio Scandinavo-Mediterraneo)
 - La linea veloce ad alta frequentazione fino a Bari e alla parte bassa della Puglia
    
+.. figure:: /media/img16-17.png
+   :alt: La figura mostra le principali reti di mobilità nell'area metropolitana di Napoli
+   :name: cm   
+   
+   Principali reti di mobilità nell'area metropolitana di Napoli
 
+.. figure:: /media/img18-20.png
+   :alt: La figura mostra la conformazione fisica del territorio e area urbanizzata
+   :name: cm   
+   
+   Conformazione fisica del territorio e area urbanizzata
