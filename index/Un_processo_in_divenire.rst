@@ -139,4 +139,22 @@ Napoli è, inoltre, uno dei nodi fondamentali all’interno delle reti trans-eur
    I 9 corridoi
    
    
+All’interno della Core Network, Napoli è un nodo fondamentale del Corridoio Scandinavo-Mediterraneo che da Helsinki passa per Amburgo e arriva in Italia attraverso il valico del Brennero, collegando Trento, Verona, Bologna, Firenze, Livorno, Roma, Napoli, Bari, Catanzaro, Messina e Palermo.
+   
+.. figure:: /media/img010.png
+   :alt: La figura mostra le principali reti di collegamento tra le Città Metropolitane italiane continua
+   :name: cm   
+   
+   Principali reti di collegamento tra le Città Metropolitane italiane
+   
+
+.. figure:: /media/img011.png
+   :alt: La figura mostra le principali reti di collegamento tra le Città Metropolitane italiane
+   :name: cm   
+   
+   Principali reti di collegamento tra le Città Metropolitane italiane
+
+L’area metropolitana di Napoli costituisce il principale hub del sud italia in termini infrastrutturali e logistici. Qui la linea ferrovia si divide in due rami:
+- La linea veloce sull’asse Palermo e Malta (corridoio Scandinavo-Mediterraneo)
+- La linea veloce ad alta frequentazione fino a Bari e alla parte bassa della Puglia
    
