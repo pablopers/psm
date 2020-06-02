@@ -26,7 +26,6 @@ Le dinamiche dei processi economici e sociali di ambiti urbani complessi, inoltr
    `A. Bagnasco, P. Le Gales, Le città nell’Europa contemporanea, Liguori Editore, 2001.`__
 
 **Le complesse interdipendenze territoriali** da un lato e le necessità di **proiezione globale** dall’altro, richiedono per le aree metropolitane soluzioni pensate su una scala territoriale che valichi il confine amministrativo della città in senso stretto.
-
 Se da un lato, dal punto di vista della trattazione letteraria questo concetto appare approfondito sotto molteplici punti di vista, dall’altro, come spesso accade, la normativa ha impiegato un tempo lungo  e travagliato  per  tradurre  questa  evidenza  in  un  **sistema amministrativo innovativo** e rispondente alle nuove realtà territoriali.
 
 .. figure:: /media/img006.png
