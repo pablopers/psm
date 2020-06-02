@@ -221,10 +221,10 @@ La vera sfida, nel caso dell’area metropolitana di Napoli, è quella di riusci
    TERRITORIO
 
 .. figure:: /media/img027.png
-   :alt: Popolazione a rischio frane residente in aree a pericolosità elevata P3 e molto elevata 
+   :alt: Popolazione a rischio frane residente in aree a pericolosità elevata P3 e molto elevata P4 - PAI (n.ab.)
    :name: cm27   
    
-   Popolazione a rischio frane residente in aree a pericolosità elevata P3 e molto elevata
+   Popolazione a rischio frane residente in aree a pericolosità elevata P3 e molto elevata P4 - PAI (n.ab.)
 
 
 Fasi del Piano Strategico
