@@ -8,6 +8,7 @@ Ruolo strategico della Città Metropolitana di Napoli
 
 
 Le  autorità  di  tipo  metropolitano  in  tutta  Europa  sono  diventate sempre più importanti con l’accrescersi della centralità dei fenomeni urbani e del superamento del concetto classico di città, ormai sostituito in considerazione del complesso sistema di interdipendenze degli insediamenti che definiscono la natura delle città metropolitane.
+
 Un’ampia costellazione letteraria sull’argomento [1]_ ha reso evidente, se non oramai scontato, quanto la geografia amministrativa dei Comuni nelle aree metropolitane fosse di per sé totalmente inadeguata ed obsoleta rispetto alla possibilità di gestione di problematiche complesse, le quali non possono che essere analizzate in maniera organica ed in relazione alla scala nazionale e globale.
 
 .. [1]
