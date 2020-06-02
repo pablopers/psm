@@ -20,10 +20,12 @@ Le dinamiche dei processi economici e sociali di ambiti urbani complessi, inoltr
 
 .. [2]
    `Gli effetti particolarmente accentuati di questo fenomeno globale di ristrutturazione socio-economica delle città sono i legami diretti in ambito finanziario e commerciale tra New York, Tokyo e Londra, analizzati da S. Sassen. S. Sassen, Le città nell’economia globale, Il Mulino, 1994.`__
+
 *“Le città costruiscono loro immagini che le rendono riconoscibili all’esterno, specializzano  le  proprie  risorse  di  scambio,  sono  tornate  a  fare  una  loro politica estera, a tessere alleanze, a creare condizioni per diventare nodi di reti di relazioni economiche e culturali”* [3]_.
 
 .. [3]
    `A. Bagnasco, P. Le Gales, Le città nell’Europa contemporanea, Liguori Editore, 2001.`__
+
 **Le complesse interdipendenze territoriali** da un lato e le necessità di **proiezione globale** dall’altro, richiedono per le aree metropolitane soluzioni pensate su una scala territoriale che valichi il confine amministrativo della città in senso stretto.
 
 Se da un lato, dal punto di vista della trattazione letteraria questo concetto appare approfondito sotto molteplici punti di vista, dall’altro, come spesso accade, la normativa ha impiegato un tempo lungo  e travagliato  per  tradurre  questa  evidenza  in  un  **sistema amministrativo innovativo** e rispondente alle nuove realtà territoriali.
