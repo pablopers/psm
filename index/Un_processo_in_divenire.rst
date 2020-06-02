@@ -11,8 +11,7 @@ Le  autorità  di  tipo  metropolitano  in  tutta  Europa  sono  diventate sempr
 Un’ampia costellazione letteraria sull’argomento [1]_ 
 
 .. [1]
-   `Testi di riferimento sul tema a cui si rimanda: S. Sassen, Le città nell’economia globale, Bologna, il Mulino, 1994, P. Le Gales, Le 
-città europee. Società urbane, globalizzazione, governo locale, il Mulino, 2006.`__
+   `Testi di riferimento sul tema a cui si rimanda: S. Sassen, Le città nell’economia globale, Bologna, il Mulino, 1994, P. Le Gales, Le città europee. Società urbane, globalizzazione, governo locale, il Mulino, 2006.`__
 
 ha reso evidente, se non oramai scontato, quanto la geografia amministrativa dei Comuni nelle aree metropolitane fosse di per sé totalmente inadeguata ed obsoleta rispetto alla possibilità di gestione di problematiche complesse, le quali non possono che essere analizzate in maniera organica ed in relazione alla scala nazionale e globale.
 In ambito territoriale, inoltre, le trasformazioni infrastrutturali e degli insediamenti costruiti si intrecciano coi cambiamenti dello stile di vita dei cittadini, dei ritmi di studio e lavoro, della capacità di muoversi all’interno  di  ambiti  urbani  ampi, dando nuova  connotazione  ai termini di contiguità e prossimità, in cui i confini comunali risultano davvero una marcata linea di detrazione alla visione d’insieme.
