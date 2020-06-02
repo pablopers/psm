@@ -59,6 +59,9 @@ In Italia la previsione normativa delle città metropolitane è rimasta per dece
 
 Le  città  metropolitane  sono  state  poi  formalmente  introdotte  nel novero  degli  enti  locali,  all'articolo  114  della  Costituzione,  con  la Legge 3/2001 di riforma costituzionale.
 
+.. epigraph::
+   La Legge 56/2014
+
 Il D. Lgs. 267/2000 *“Testo unico delle leggi sull’ordinamento degli enti locali”* individua, in attuazione dei novellati artt. 114, 117 e 118 della Costituzione, all’art. 2, comma 1, quali enti locali *“i comuni, le province, le città metropolitane, le comunità montane, le comunità isolane e le unioni di Comuni”*.
 
 A distanza di anni, con la Legge 42/2009 viene aggiunta alla lista anche la città metropolitana di Reggio Calabria.
@@ -97,10 +100,18 @@ Ai sensi del comma 44 della medesima Legge, alla città metropolitana sono attri
 
 Sono organi della città metropolitana (artt. 7-9): - il sindaco metropolitano, che è di diritto il sindaco del comune capoluogo; - il consiglio metropolitano, organo elettivo di secondo grado, per cui hanno diritto di elettorato attivo e passivo i sindaci ed i consiglieri comunali; - la conferenza metropolitana, composta da tutti i sindaci dei comuni della città metropolitana.
 La legge definisce altresì il contenuto fondamentale dello statuto della città metropolitana (artt. 10 e 11), attribuendo a questo ente un’ampia potestà statutaria.
+
+.. epigraph::
+   Lo Statuto  della CM di Napoli
+
 Lo Statuto della Città Metropolitana di Napoli - adottato con deliberazione della Conferenza Metropolitana n. 2 del 11.06.2015 e approvato con Deliberazione del Consiglio Metropolitano n. 9 del 14.05.2015 - nel recepire la sua mutata natura rispetto alla precedente Provincia, recita nel preambolo *“Questa “Nuova Città”, nella consapevolezza di essere un’area strategica per il Mezzogiorno e per l’intera Italia, persegue – con il concorso attivo dei suoi cittadini e dei Comuni che la compongono – l’obiettivo di una rinnovata crescita economica e civile. Tale crescita è la premessa indispensabile per valorizzare compiutamente le straordinarie capacità attrattive di cui essa dispone, per rafforzarne i legami comunitari, per collaborare e per competere, forte della propria inconfondibile identità, con le altre aree territoriali del Mediterraneo, dell’Europa e del mondo”*.
 Gli artt. 31-35 dello Statuto definiscono le funzioni della Città Metropolitana in relazione dalla pianificazione strategica. In particolare, l’art. 31 statuisce che *“con la pianificazione strategica generale, la Città metropolitana individua la strategia complessiva di lungo periodo per lo sviluppo economico sociale della comunità metropolitana”*, mentre all’art. 32 se ne individuano i contenuti, definendo che *“nel piano strategico si fissano le azioni tese a definire l’orizzonte identitario e di crescita dell’area metropolitana, al fine di migliorare le condizioni di vita, di salute, di relazioni e di benessere dei cittadini”*.
 *“Per il perseguimento di tali obiettivi il Piano strategico garantisce e promuove, attraverso l’individuazione e la messa a sistema delle grandi opzioni di sviluppo, la salvaguardia del patrimonio naturalistico, paesaggistico e artistico, il risanamento dell’ambiente e del tessuto urbano, la valorizzazione delle eccellenze territoriali, l’ottimizzazione delle reti di comunicazione e dell’offerta dei servizi pubblici, il rafforzamento dei livelli di coesione e di integrazione sociale, il potenziamento della capacità attrattiva, di accessibilità e di relazioni dell’area metropolitana.”*
 Al fine di espletare fattivamente il ruolo fondamentale attribuito all’Ente, di programmazione e cura dello sviluppo strategico del territorio metropolitano, il Piano Strategico si configura, dunque, come strumento indispensabile per la costruzione di una visione condivisa di sviluppo della Città Metropolitana di Napoli.
+
+.. epigraph::
+   Il ruolo della CM di Napoli
+
 Nell’area metropolitana di Napoli gli effetti della polarizzazione economica e funzionale della “regione urbana funzionale” [4]_
 
 .. [4]
@@ -231,6 +242,9 @@ La vera sfida, nel caso dell’area metropolitana di Napoli, è quella di riusci
 Fasi del Piano Strategico
 -------------------------
 
+.. epigraph::
+   Il processo di pianificazione strategica
+
 In Città Metropolitana abbiamo cominciato a parlare di “pianificazione strategica” da tempo; da qualche anno ormai l’azione amministrativa si muove tra le maglie degli obiettivi strategici già delineati con la relazione di mandato del Sindaco Metropolitano del 2016.
 Parliamo di pianificazione strategica da quando ancora il Piano sembrava un miraggio, da quando veramente in pochi ci credevano, costruendo atti e procedure che nelle trame del Piano stesso, infine, hanno trovato una loro ricucitura d’insieme.
 Abbiamo lavorato alla costruzione di un processo trasparente e condiviso con le comunità locali, fondato sul continuo confronto, assolutamente inedito per le realtà urbane del Sud Italia, sulla base del quale – senza ancora avere approvato il Piano Strategico – sono stati già individuati e programmati investimenti mirati, che vengono esplicitati in maniera coerente nel presente documento di Piano, identificando ulteriori possibilità di captazione di fondi, investimenti e capitali.
@@ -249,6 +263,9 @@ Così come la struttura delle città è mutata in tutta Europa, anche la pianifi
 Le aree metropolitane non possono più basare il loro sviluppo su piani territoriali prescrittivi e di lunga durata, considerati ormai troppo rigidi e totalmente inadeguati a gestire la rapidità delle trasformazioni nelle aree metropolitane, ma necessitano di un modello postmoderno di piani, maggiormente flessibili, con una componente fortemente operativa e condivisa.
 
 Esattamente all’interno di tale categoria si colloca il Piano Strategico, il quale, in quanto strumento di governance istituzionale multilivello, si configura come atto di indirizzo *“per l'esercizio delle funzioni dei comuni”* (art. 1, comma 44, lett. a, Legge 56/2014) che la Città Metropolitana adotta per assicurare *“la cura dello sviluppo strategico del territorio metropolitano”* (art. 1, comma 2) nonché per individuare, promuovere ed attuare progetti e azioni necessarie a ripensare il futuro del territorio metropolitano, sia nella dimensione locale e territoriale che nella dimensione globale.
+
+.. epigraph::
+   Piano "Strategico" e "Triennale"
 
 In relazione al Piano Strategico, d’altro canto, la stessa Legge 56/2014 presenta il contraddittorio accostamento dei termini “piano strategico” e “triennale”.
 
@@ -274,6 +291,9 @@ Le due Direttrici di intervento individuate (Sviluppo economico e sociale del te
 
 .. [12]
    Delibera del Consiglio Metropolitano 175 del 03/07/2019 *“Articolazione delle direttrici del Piano Strategico in assi e azioni, modalità di costituzione del parco progetti dei Comuni e criteri di attribuzione delle risorse economiche per l'attuazione dei relativi interventi. Approvazione”.*
+
+.. epigraph::
+   Operatività e monitoraggio del PS
 
 In riferimento all’operatività propria del Piano, con Decreto del Sindaco Metropolitano n. 762/2019 è stato istituito il Comitato di Coordinamento del Piano Strategico, quale forte struttura di governance multilivello, più precisamente descritta nel Paragrafo 2.1, preposta a misurare l’efficacia stessa del Piano e a trovare soluzioni condivise.
 
