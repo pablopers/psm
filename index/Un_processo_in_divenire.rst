@@ -225,3 +225,13 @@ La vera sfida, nel caso dell’area metropolitana di Napoli, è quella di riusci
    :name: cm27   
    
    Popolazione a rischio frane residente in aree a pericolosità elevata P3 e molto elevata
+
+
+Fasi del Piano Strategico
+-------------------------
+
+In Città Metropolitana abbiamo cominciato a parlare di “pianificazione strategica” da tempo; da qualche anno ormai l’azione amministrativa si muove tra le maglie degli obiettivi strategici già delineati con la relazione di mandato del Sindaco Metropolitano del 2016.
+Parliamo di pianificazione strategica da quando ancora il Piano sembrava un miraggio, da quando veramente in pochi ci credevano, costruendo atti e procedure che nelle trame del Piano stesso, infine, hanno trovato una loro ricucitura d’insieme.
+Abbiamo lavorato alla costruzione di un processo trasparente e condiviso con le comunità locali, fondato sul continuo confronto, assolutamente inedito per le realtà urbane del Sud Italia, sulla base del quale – senza ancora avere approvato il Piano Strategico – sono stati già individuati e programmati investimenti mirati, che vengono esplicitati in maniera coerente nel presente documento di Piano, identificando ulteriori possibilità di captazione di fondi, investimenti e capitali.
+La differenza fondamentale del termine usato “pianificazione”, in luogo di “piano” non è liquidabile semplicemente con la preferenza della prima definizione nelle more dell’approvazione dello strumento “Piano Strategico”, ma nell’assoluta e convinta preminenza concettuale del “processo” rispetto all’“oggetto” stesso.
+A tale proposito, risulta utile la differenziazione di Edoardo Salzano tra “pianificazione” e “piano” che, seppur riferita alla pianificazione territoriale ed urbanistica, è forse ancora più efficacemente applicabile alla pianificazione strategica laddove l’autore sostiene che *“occorre passare […] dall’attuale concezione della pianificazione, centrata sull’idea di “piano” e consistente in una serie di piani che si succedono a salti di tempo, ciascuno dei quali viene, volta per volta, attuato, a una concezione della pianificazione basata sull’idea di “processo”, e quindi su un succedersi, sistematico, continuo e cadenzato, di atti di pianificazione nei quali il momento del piano, quello dell’attuazione e quello della verifica ciclicamente si susseguono e – per così dire – si nutrono l’uno dell’altro.*
