@@ -138,5 +138,12 @@ Napoli è, inoltre, uno dei nodi fondamentali all’interno delle reti trans-eur
    Reti trans-europee di trasporto (TEN-T)
    I 9 corridoi
    
-
+All’interno della Core Network, Napoli è un nodo fondamentale del Corridoio Scandinavo-Mediterraneo che da Helsinki passa per Amburgo e arriva in Italia attraverso il valico del Brennero, collegando Trento, Verona, Bologna, Firenze, Livorno, Roma, Napoli, Bari, Catanzaro, Messina e Palermo.
+   
+.. figure:: /media/img10-15.png
+   :alt: La figura mostra le principali reti di collegamento tra le Città Metropolitane italiane continua
+   :name: cm010-015   
+   
+   Principali reti di collegamento tra le Città Metropolitane italiane
+   
 
