@@ -190,10 +190,10 @@ Allo sviluppo demografico si deve poi associare in uno stretto rapporto di inter
    Seminario di presentazione del Rapporto Giorgio Rota su Napoli “Ci vuole una terra per vedere il mare”.
 
 .. figure:: /media/img023.png
-   :alt: Densità di popolazione nell'Europa del Sud-Ovest (fonte: https://www.geonamers.org)
+   :alt: Densità di popolazione nell'Europa del Sud-Ovest (fonte: https://www.geonames.org)
    :name: cm023   
    
-   Densità di popolazione nell'Europa del Sud-Ovest (fonte: https://www.geonamers.org)
+   Densità di popolazione nell'Europa del Sud-Ovest (fonte: https://www.geonames.org)
    
 Il protagonismo evidente e storicamente consolidato di Napoli come metropoli del Mediterraneo e chiave dello sviluppo economico dell’intero Mezzogiorno d’Italia, si rafforza all’interno del Piano Strategico nella sperimentazione di policy, azioni e progetti, con una forte connotazione operativa.
 Come costruire una città metropolitana vivibile? Quali modelli economici si vogliono traguardare? Quali politiche pubbliche per creare sviluppo contrastando le disuguaglianze? Come proiettarsi sulla scala globale valorizzando il capitale territoriale [9]_?
