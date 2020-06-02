@@ -146,4 +146,13 @@ All’interno della Core Network, Napoli è un nodo fondamentale del Corridoio S
    
    Principali reti di collegamento tra le Città Metropolitane italiane
    
+L’area metropolitana di Napoli costituisce il principale hub del sud italia in termini infrastrutturali e logistici. Qui la linea ferrovia si divide in due rami:
+- La linea veloce sull’asse Palermo e Malta (corridoio Scandinavo-Mediterraneo)
+- La linea veloce ad alta frequentazione fino a Bari e alla parte bassa della Puglia
+   
+.. figure:: /media/img16-17.png
+   :alt: La figura mostra le principali reti di mobilità nell'area metropolitana di Napoli
+   :name: cm016-017   
+   
+   Principali reti di mobilità nell'area metropolitana di Napoli
 
