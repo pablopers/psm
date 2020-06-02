@@ -15,7 +15,6 @@
    :name: Lettera_sindaco
    :hidden:
 
-
    Lettera_del_Sindaco_Metropolitano.rst
 
 
@@ -23,7 +22,6 @@
    :maxdepth: 3
    :numbered:
 
-   
    index/Un_processo_in_divenire.rst
    
 
