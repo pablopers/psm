@@ -165,7 +165,7 @@ L’area metropolitana di Napoli costituisce il principale hub del sud italia in
    
 
 .. figure:: /media/img021.png
-   :alt: Superficie territoriale della Città Metropolitana di Napoli (KM\ :sup:`2`) in confronto ai dati regionali nella Regione Campania
+   :alt: Superficie territoriale della Città Metropolitana di Napoli (KM\ :sup:'2') in confronto ai dati regionali nella Regione Campania
    :name: cm021   
    
-   Superficie territoriale della Città Metropolitana di Napoli (KM\ :sup:`2`) in confronto ai dati regionali nella Regione Campania
+   Superficie territoriale della Città Metropolitana di Napoli (KM\ :sup:'2') in confronto ai dati regionali nella Regione Campania
