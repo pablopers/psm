@@ -233,5 +233,48 @@ Fasi del Piano Strategico
 In Città Metropolitana abbiamo cominciato a parlare di “pianificazione strategica” da tempo; da qualche anno ormai l’azione amministrativa si muove tra le maglie degli obiettivi strategici già delineati con la relazione di mandato del Sindaco Metropolitano del 2016.
 Parliamo di pianificazione strategica da quando ancora il Piano sembrava un miraggio, da quando veramente in pochi ci credevano, costruendo atti e procedure che nelle trame del Piano stesso, infine, hanno trovato una loro ricucitura d’insieme.
 Abbiamo lavorato alla costruzione di un processo trasparente e condiviso con le comunità locali, fondato sul continuo confronto, assolutamente inedito per le realtà urbane del Sud Italia, sulla base del quale – senza ancora avere approvato il Piano Strategico – sono stati già individuati e programmati investimenti mirati, che vengono esplicitati in maniera coerente nel presente documento di Piano, identificando ulteriori possibilità di captazione di fondi, investimenti e capitali.
+
 La differenza fondamentale del termine usato “pianificazione”, in luogo di “piano” non è liquidabile semplicemente con la preferenza della prima definizione nelle more dell’approvazione dello strumento “Piano Strategico”, ma nell’assoluta e convinta preminenza concettuale del “processo” rispetto all’“oggetto” stesso.
+
 A tale proposito, risulta utile la differenziazione di Edoardo Salzano tra “pianificazione” e “piano” che, seppur riferita alla pianificazione territoriale ed urbanistica, è forse ancora più efficacemente applicabile alla pianificazione strategica laddove l’autore sostiene che *“occorre passare […] dall’attuale concezione della pianificazione, centrata sull’idea di “piano” e consistente in una serie di piani che si succedono a salti di tempo, ciascuno dei quali viene, volta per volta, attuato, a una concezione della pianificazione basata sull’idea di “processo”, e quindi su un succedersi, sistematico, continuo e cadenzato, di atti di pianificazione nei quali il momento del piano, quello dell’attuazione e quello della verifica ciclicamente si susseguono e – per così dire – si nutrono l’uno dell’altro.*
+
+*Ovviamente questa definizione comporta che gli atti e i documenti della pianificazione non vengano redatti da soggetti esterni all’amministrazione, ma prodotti al suo interno, con strutture adeguatamente qualificate e sorrette da competenze esterne”* [10]_.
+
+.. [10]
+   E. Salzano “Le parole chiave”, in M. Baioni (a cura di), “La costruzione della città pubblica”, Alinea editrice, 2008.
+
+Così come la struttura delle città è mutata in tutta Europa, anche la pianificazione urbana intesa in senso classico appare non più adeguata ai nuovi organismi metropolitani, che hanno la necessità di rinnovare i propri strumenti di pianificazione, orientandoli sempre più ad atti programmatori di indirizzo costruiti mediante il coinvolgimento di attori pubblici e privati.
+
+Le aree metropolitane non possono più basare il loro sviluppo su piani territoriali prescrittivi e di lunga durata, considerati ormai troppo rigidi e totalmente inadeguati a gestire la rapidità delle trasformazioni nelle aree metropolitane, ma necessitano di un modello postmoderno di piani, maggiormente flessibili, con una componente fortemente operativa e condivisa.
+
+Esattamente all’interno di tale categoria si colloca il Piano Strategico, il quale, in quanto strumento di governance istituzionale multilivello, si configura come atto di indirizzo *“per l'esercizio delle funzioni dei comuni”* (art. 1, comma 44, lett. a, Legge 56/2014) che la Città Metropolitana adotta per assicurare *“la cura dello sviluppo strategico del territorio metropolitano”* (art. 1, comma 2) nonché per individuare, promuovere ed attuare progetti e azioni necessarie a ripensare il futuro del territorio metropolitano, sia nella dimensione locale e territoriale che nella dimensione globale.
+
+In relazione al Piano Strategico, d’altro canto, la stessa Legge 56/2014 presenta il contraddittorio accostamento dei termini “piano strategico” e “triennale”.
+
+Tale accostamento lessicale pare depauperare la pianificazione strategica della sua ampia connotazione in termini di programmazione temporale e di capacità di immaginare il futuro a lungo termine, riducendola ad un arco temporale triennale, strettamente legato al bilancio di previsione dell’Ente e quindi più correlato a processi di programmazione ordinaria.
+
+Il presente Piano Strategico si pone l’obiettivo di superare l’apparente dicotomia “strategico”/”triennale”, proponendo una visione di lungo termine – con azioni i cui effetti si concretizzeranno pienamene in archi temporali decennali, delineando percorsi di sviluppo in continua evoluzione – declinando nel contempo le strategie in una programmazione operativa triennale 2019-2021.
+
+Solo in quest’ottica duale i termini “strategico” e “triennale” possono convivere, interpretando l’aggiornamento annuale del Piano e la sua revisione triennale come processi entrambi finalizzati al raggiungimento degli obiettivi di lungo termine insiti nel Piano stesso e suscettibili, per loro natura, di continui perfezionamenti e integrazioni.
+
+Il processo di pianificazione strategica è stato fattivamente avviato nel novembre 2018 attraverso l’approvazione delle Linee di indirizzo del Piano Strategico [11]_, prevedendo due direttrici di intervento:
+
+.. [11]
+   Delibera del Consiglio Metropolitano n. 184 del 27.11.2018 *“Approvazione “Linee di indirizzo per la predisposizione del Piano Strategico metropolitano triennale e identificazione delle Zone Omogenee”.*
+   
+   
+      a. sviluppo economico e sociale del territorio;
+   
+      b. incremento della qualità della vita tramite la salvaguardia dell’ambiente.
+   
+In seguito all’approvazione delle Linee di indirizzo è stato attivato il processo di partecipazione di Comuni e stakeholder (Enti, Associazioni, Ordini professionali, Autonomie funzionali, ecc.), col precipuo proposito di costruire l’intero processo di definizione del Piano Strategico intercettando le reali esigenze territoriali e delle comunità locali, come illustrato nel Paragrafo 2.1 del presente documento di Piano.
+
+Le due Direttrici di intervento individuate (Sviluppo economico e sociale del territorio e Incremento della qualità della vita tramite la salvaguardia dell’ambiente), sono state poi articolate in Assi e Azioni [12]_, successivamente ulteriormente approfonditi, configurando 6 Assi e 16 Azioni, come illustrati nel Paragrafo 4.1 del presente documento di Piano.
+
+.. [12]
+   Delibera del Consiglio Metropolitano 175 del 03/07/2019 *“Articolazione delle direttrici del Piano Strategico in assi e azioni, modalità di costituzione del parco progetti dei Comuni e criteri di attribuzione delle risorse economiche per l'attuazione dei relativi interventi. Approvazione”.*
+
+In riferimento all’operatività propria del Piano, con Decreto del Sindaco Metropolitano n. 762/2019 è stato istituito il Comitato di Coordinamento del Piano Strategico, quale forte struttura di governance multilivello, più precisamente descritta nel Paragrafo 2.1, preposta a misurare l’efficacia stessa del Piano e a trovare soluzioni condivise.
+
+Il set di indicatori sulla base del quale sarà valutata l’efficacia e l’avanzamento del Piano Strategico è sviluppato a partire dal set del Rapporto BES (Benessere Equo Sostenibile) su dati ISTAT, i quali consentono di monitorare in maniera integrata i principali fenomeni economici, sociali e ambientali su base territoriale, come illustrato nel Paragrafo 5.1 del presente documento di Piano.
+
