@@ -22,7 +22,8 @@ Le dinamiche dei processi economici e sociali di ambiti urbani complessi, inoltr
 
 *“Le città costruiscono loro immagini che le rendono riconoscibili all’esterno, specializzano  le  proprie  risorse  di  scambio,  sono  tornate  a  fare  una  loro politica estera, a tessere alleanze, a creare condizioni per diventare nodi di reti di relazioni economiche e culturali”* [3]_.
 
-
+.. [3]
+   `A. Bagnasco, P. Le Gales, Le città nell’Europa contemporanea, Liguori Editore, 2001.`__
 
 **Le complesse interdipendenze territoriali** da un lato e le necessità di **proiezione globale** dall’altro, richiedono per le aree metropolitane soluzioni pensate su una scala territoriale che valichi il confine amministrativo della città in senso stretto.
 
