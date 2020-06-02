@@ -206,15 +206,15 @@ La vera sfida, nel caso dell’area metropolitana di Napoli, è quella di riusci
 
 .. figure:: /media/img24-25.png
    :alt: Città Metropolitane italiane. Confronto dati (2018) TESSUTO SOCIALE ED ECONOMICO
-   :name: cm023   
+   :name: cm24-25   
    
    Città Metropolitane italiane. Confronto dati (2018) 
    
    TESSUTO SOCIALE ED ECONOMICO
    
-.. figure:: /media/img25-26.png
+.. figure:: /media/img26-27.png
    :alt: Città Metropolitane italiane. Confronto dati (2018) TERRITORIO
-   :name: cm023   
+   :name: cm26-27   
    
    Città Metropolitane italiane. Confronto dati (2018) 
    
