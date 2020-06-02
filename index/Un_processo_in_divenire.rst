@@ -179,7 +179,7 @@ Il territorio amministrativo della Città Metropolitana di Napoli si estende per
 Se si considera, però, la vera conurbazione fisica, senza fermarsi ai confini amministrativi della ex provincia (ricalcati dall’attuale città metropolitana), vanno necessariamente inglobati i comuni del basso casertano e dell’alto salernitano, i quali definiscono a partire dalla città di Napoli un unicum urbano senza soluzione di continuità, con stime di popolazione fino a 3.800.000 [7]_.
 
 .. [7]
-   `R. Leonardi, R. Y. Nanetti, “La sfida di Napoli. Capitale sociale, sviluppo e sicurezza”, Guerini e Associati, 2008.`__
+   R. Leonardi, R. Y. Nanetti, “La sfida di Napoli. Capitale sociale, sviluppo e sicurezza”, Guerini e Associati, 2008.
 
 Seppure la sua estensione amministrativa sia limitata (la distanza tra Napoli e Caserta è pari al raggio del raccordo anulare del solo centro di Roma), la densità di popolazione tocca vette paragonabili a città asiatiche da record mondiale, rendendo la Città Metropolitana di Napoli una delle aree urbane territorialmente più compatte e congestionate d’Europa.
 Nel periodo intercensuario tra il 1951 ed il 2011 la popolazione urbana cala del 39,4% mentre quella della provincia mostra una crescita del 9,6%. Cresce quindi il peso delle aree interne, intorno alla città capoluogo, distribuendo il flusso di persone e merci al di fuori della cinta urbana.
