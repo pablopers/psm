@@ -201,3 +201,21 @@ Come costruire una città metropolitana vivibile? Quali modelli economici si vog
 
 .. [9]
    *“Il capitale territoriale allude non soltanto ai beni pubblici, al capitale fisso sociale e al capitale produttivo, ma anche al capitale sociale incorporato nei luoghi sotto forma di senso di appartenenza e di tradizioni identitarie consolidate, e di capitale relazionale inteso come capacità di cooperare, di fare rete su ambiti rerritoriali pertinenti e su sfide complesse quali ad esempio la salvaguardia per patrimonio culturale e paesistico.”* M. C. Gibelli, *“Riflessioni sull’intercomunalità”*, in M. Baioni (a cura di), *“La costruzione della città pubblica”*, Alinea editrice, 2008.
+
+La vera sfida, nel caso dell’area metropolitana di Napoli, è quella di riuscire a trovare risposte a queste domande, tessendole per la prima volta in una struttura narrativa unica, in un assemblaggio sensato di idee e potenzialità sottese, insite nelle comunità, nelle identità e multiculturalità che la abitano, le quali disegnano il proprio futuro partendo dal riconoscimento e dalla cura dei beni collettivi.
+
+.. figure:: /media/img24-25.png
+   :alt: Città Metropolitane italiane. Confronto dati (2018) TESSUTO SOCIALE ED ECONOMICO
+   :name: cm023   
+   
+   Città Metropolitane italiane. Confronto dati (2018) 
+   
+   TESSUTO SOCIALE ED ECONOMICO
+   
+.. figure:: /media/img25-26.png
+   :alt: Città Metropolitane italiane. Confronto dati (2018) TERRITORIO
+   :name: cm023   
+   
+   Città Metropolitane italiane. Confronto dati (2018) 
+   
+   TERRITORIO
