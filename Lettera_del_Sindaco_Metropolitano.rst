@@ -16,24 +16,24 @@ Luigi de Magistris
 
 .. figure:: /media/img002.png
    :alt: La figura mostra la vista del golfo di napoli dall'alto
-   :name: gn
+   :name: ls2
    
    Il golfo di Napoli
    
 .. figure:: /media/img003.png
    :alt: La figura mostra una panoramica della Reggia di Portici
-   :name: rp
+   :name: ls3
 
    La Reggia di Portici
    
 .. figure:: /media/img004.png
    :alt: La figura mostra uno scorcio del golfo di Napoli
-   :name: gn2
+   :name: ls4
    
    Fig.3
    
 .. figure:: /media/img005.png
    :alt: La figura mostra Procida con il golfo di Napoli alle spalle
-   :name: av
+   :name: ls5
 
    Fig.4
