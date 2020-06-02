@@ -11,19 +11,19 @@ Le  autorità  di  tipo  metropolitano  in  tutta  Europa  sono  diventate sempr
 Un’ampia costellazione letteraria sull’argomento [1]_ 
 
 .. [1]
-   `Testi di riferimento sul tema a cui si rimanda: S. Sassen, Le città nell’economia globale, Bologna, il Mulino, 1994, P. Le Gales, Le città europee. Società urbane, globalizzazione, governo locale, il Mulino, 2006.`__
+   Testi di riferimento sul tema a cui si rimanda: S. Sassen, Le città nell’economia globale, Bologna, il Mulino, 1994, P. Le Gales, Le città europee. Società urbane, globalizzazione, governo locale, il Mulino, 2006.
 
 ha reso evidente, se non oramai scontato, quanto la geografia amministrativa dei Comuni nelle aree metropolitane fosse di per sé totalmente inadeguata ed obsoleta rispetto alla possibilità di gestione di problematiche complesse, le quali non possono che essere analizzate in maniera organica ed in relazione alla scala nazionale e globale.
 In ambito territoriale, inoltre, le trasformazioni infrastrutturali e degli insediamenti costruiti si intrecciano coi cambiamenti dello stile di vita dei cittadini, dei ritmi di studio e lavoro, della capacità di muoversi all’interno  di  ambiti  urbani  ampi, dando nuova  connotazione  ai termini di contiguità e prossimità, in cui i confini comunali risultano davvero una marcata linea di detrazione alla visione d’insieme.
 Le dinamiche dei processi economici e sociali di ambiti urbani complessi, inoltre, fanno sì che le grandi aree metropolitane siano sempre più in relazione tra loro mediante **legami transnazionali** di tipo finanziario e commerciale, i quali possiedono una connotazione addirittura più forte dei legami instaurati con il territorio regionale in cui le città sono inserite [2]_.
 
 .. [2]
-   `Gli effetti particolarmente accentuati di questo fenomeno globale di ristrutturazione socio-economica delle città sono i legami diretti in ambito finanziario e commerciale tra New York, Tokyo e Londra, analizzati da S. Sassen. S. Sassen, Le città nell’economia globale, Il Mulino, 1994.`__
+   Gli effetti particolarmente accentuati di questo fenomeno globale di ristrutturazione socio-economica delle città sono i legami diretti in ambito finanziario e commerciale tra New York, Tokyo e Londra, analizzati da S. Sassen. S. Sassen, Le città nell’economia globale, Il Mulino, 1994.
 
 *“Le città costruiscono loro immagini che le rendono riconoscibili all’esterno, specializzano  le  proprie  risorse  di  scambio,  sono  tornate  a  fare  una  loro politica estera, a tessere alleanze, a creare condizioni per diventare nodi di reti di relazioni economiche e culturali”* [3]_.
 
 .. [3]
-   `A. Bagnasco, P. Le Gales, Le città nell’Europa contemporanea, Liguori Editore, 2001.`__
+   A. Bagnasco, P. Le Gales, Le città nell’Europa contemporanea, Liguori Editore, 2001.
 
 **Le complesse interdipendenze territoriali** da un lato e le necessità di **proiezione globale** dall’altro, richiedono per le aree metropolitane soluzioni pensate su una scala territoriale che valichi il confine amministrativo della città in senso stretto.
 Se da un lato, dal punto di vista della trattazione letteraria questo concetto appare approfondito sotto molteplici punti di vista, dall’altro, come spesso accade, la normativa ha impiegato un tempo lungo  e travagliato  per  tradurre  questa  evidenza  in  un **sistema amministrativo innovativo** e rispondente alle nuove realtà territoriali.
@@ -103,12 +103,12 @@ Al fine di espletare fattivamente il ruolo fondamentale attribuito all’Ente, d
 Nell’area metropolitana di Napoli gli effetti della polarizzazione economica e funzionale della “regione urbana funzionale” [4]_
 
 .. [4]
-   `Si rimanda alla definizione di *"Functional Urban Region"* (FUR) del Comitato per le Regioni dell’Unione Europea, poi evolutosi in “Metropolitan Area” (MA).`__
+   Si rimanda alla definizione di *"Functional Urban Region"* (FUR) del Comitato per le Regioni dell’Unione Europea, poi evolutosi in “Metropolitan Area” (MA).
    
 risultano particolarmente evidenti, sia rispetto a tutto il sud Italia, sia rispetto anche a diverse altre città metropolitane, ad eccezione forse di Milano che rappresenta un ancor più evidente nucleo *offshore*, totalmente slegato dal contesto territoriale regionale e finanche nazionale, in grado di proiettarsi direttamente, in quanto città metropolitana, in Europa e nel mondo [5]_.
 
 .. [5]
-   `La *"Globalization and World Cities Research Network"* (GaWC ), nella sua categorizzazione biennale delle città mondiali conferma Milano come città globale di tipo Alpha insieme a Sydney, Chicago, Francoforte, Madrid, Toronto e Los Angeles.`__
+   La *"Globalization and World Cities Research Network"* (GaWC ), nella sua categorizzazione biennale delle città mondiali conferma Milano come città globale di tipo Alpha insieme a Sydney, Chicago, Francoforte, Madrid, Toronto e Los Angeles.
    
 Gli effetti di questa forte polarizzazione, se da un lato rappresentano delle opportunità e possono costituire un punto di forza per la catalizzazione di investimenti – di cui Milano tra tutte ha saputo negli ultimi anni certamente approfittare – d’altro canto portano anche con sé in tutte le aree metropolitane, come a Napoli, una serie di effetti di difficile gestione, quali la crescita di soggetti deboli e dell’insicurezza urbana, soprattutto a causa dei cambiamenti del mercato del lavoro.
 
@@ -116,7 +116,7 @@ Tali cambiamenti nella struttura economica e sociale portano sempre più alla ma
 Da un lato quindi le città metropolitane diventano nodi di reti transnazionali su logiche proprie sempre in evoluzione, in continua competizione tra loro per attirare investimenti, ma dall’altro rischiano la continua frammentazione sociale ed economica al proprio interno [6]_.
 
 .. [6]
-   `A. Bagnasco, P. Le Gales, “Le città nell’Europa contemporanea”, Liguori Editore, 2001.`__
+   A. Bagnasco, P. Le Gales, “Le città nell’Europa contemporanea”, Liguori Editore, 2001.
    
 .. figure:: /media/img008.png
    :alt: La figura mostra le caratteristiche comuni delle grandi aree metropolitane - Analisi SWOT
@@ -187,7 +187,7 @@ Il consistente peso demografico della provincia di Napoli è confermato dalla pr
 Allo sviluppo demografico si deve poi associare in uno stretto rapporto di interdipendenza, ovviamente, anche quello economico e produttivo che determina e condiziona i flussi delle persone e delle merci [8]_.
 
 .. [8]
-   `Seminario di presentazione del Rapporto Giorgio Rota su Napoli “Ci vuole una terra per vedere il mare”.`__
+   Seminario di presentazione del Rapporto Giorgio Rota su Napoli “Ci vuole una terra per vedere il mare”.
 
 .. figure:: /media/img023.png
    :alt: Densità di popolazione nell'Europa del Sud-Ovest (fonte: https://www.geonamers.org)
@@ -199,4 +199,4 @@ Il protagonismo evidente e storicamente consolidato di Napoli come metropoli del
 Come costruire una città metropolitana vivibile? Quali modelli economici si vogliono traguardare? Quali politiche pubbliche per creare sviluppo contrastando le disuguaglianze? Come proiettarsi sulla scala globale valorizzando il capitale territoriale [9]_?
 
 .. [9]
-   `*“Il capitale territoriale allude non soltanto ai beni pubblici, al capitale fisso sociale e al capitale produttivo, ma anche al capitale sociale incorporato nei luoghi sotto forma di senso di appartenenza e di tradizioni identitarie consolidate, e di capitale relazionale inteso come capacità di cooperare, di fare rete su ambiti rerritoriali pertinenti e su sfide complesse quali ad esempio la salvaguardia per patrimonio culturale e paesistico.”* M. C. Gibelli, *“Riflessioni sull’intercomunalità”*, in M. Baioni (a cura di), *“La costruzione della città pubblica”*, Alinea editrice, 2008.`__
+   *“Il capitale territoriale allude non soltanto ai beni pubblici, al capitale fisso sociale e al capitale produttivo, ma anche al capitale sociale incorporato nei luoghi sotto forma di senso di appartenenza e di tradizioni identitarie consolidate, e di capitale relazionale inteso come capacità di cooperare, di fare rete su ambiti rerritoriali pertinenti e su sfide complesse quali ad esempio la salvaguardia per patrimonio culturale e paesistico.”* M. C. Gibelli, *“Riflessioni sull’intercomunalità”*, in M. Baioni (a cura di), *“La costruzione della città pubblica”*, Alinea editrice, 2008.
