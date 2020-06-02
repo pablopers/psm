@@ -169,3 +169,35 @@ L’area metropolitana di Napoli costituisce il principale hub del sud italia in
    :name: cm021   
    
    Superficie territoriale della Città Metropolitana di Napoli (KM\ :sup:'2') in confronto ai dati regionali nella Regione Campania
+
+.. figure:: /media/img022.png
+   :alt: Popolazione della Città Metropolitana di Napoli (ab.) in confronto ai dati regionali (anno 2018)
+   :name: cm022   
+   
+   Popolazione della Città Metropolitana di Napoli (ab.) in confronto ai dati regionali (anno 2018)
+   
+Il territorio amministrativo della Città Metropolitana di Napoli si estende per un raggio di circa 40 km dalla città capoluogo ed ha una superficie totale di 1.171 km\ :sup:`2`., comprendente 92 comuni, con una popolazione di oltre 3 milioni di abitanti (il 53% dell’intera Regione Campania).
+Se si considera, però, la vera conurbazione fisica, senza fermarsi ai confini amministrativi della ex provincia (ricalcati dall’attuale città metropolitana), vanno necessariamente inglobati i comuni del basso casertano e dell’alto salernitano, i quali definiscono a partire dalla città di Napoli un unicum urbano senza soluzione di continuità, con stime di popolazione fino a 3.800.000 [7]_.
+
+.. [7]
+   R. Leonardi, R. Y. Nanetti, “La sfida di Napoli. Capitale sociale, sviluppo e sicurezza”, Guerini e Associati, 2008.
+
+Seppure la sua estensione amministrativa sia limitata (la distanza tra Napoli e Caserta è pari al raggio del raccordo anulare del solo centro di Roma), la densità di popolazione tocca vette paragonabili a città asiatiche da record mondiale, rendendo la Città Metropolitana di Napoli una delle aree urbane territorialmente più compatte e congestionate d’Europa.
+Nel periodo intercensuario tra il 1951 ed il 2011 la popolazione urbana cala del 39,4% mentre quella della provincia mostra una crescita del 9,6%. Cresce quindi il peso delle aree interne, intorno alla città capoluogo, distribuendo il flusso di persone e merci al di fuori della cinta urbana.
+Il consistente peso demografico della provincia di Napoli è confermato dalla presenza di ben 10 comuni su 92 con più di 50.000 abitanti, saldati tra di loro in un’unica, enorme, periferia indifferenziata che circonda la città di Napoli.
+Allo sviluppo demografico si deve poi associare in uno stretto rapporto di interdipendenza, ovviamente, anche quello economico e produttivo che determina e condiziona i flussi delle persone e delle merci [8]_.
+
+.. [8]
+   Seminario di presentazione del Rapporto Giorgio Rota su Napoli “Ci vuole una terra per vedere il mare”.
+
+.. figure:: /media/img023.png
+   :alt: Densità di popolazione nell'Europa del Sud-Ovest (fonte: https://www.geonames.org)
+   :name: cm023   
+   
+   Densità di popolazione nell'Europa del Sud-Ovest (fonte: https://www.geonames.org)
+   
+Il protagonismo evidente e storicamente consolidato di Napoli come metropoli del Mediterraneo e chiave dello sviluppo economico dell’intero Mezzogiorno d’Italia, si rafforza all’interno del Piano Strategico nella sperimentazione di policy, azioni e progetti, con una forte connotazione operativa.
+Come costruire una città metropolitana vivibile? Quali modelli economici si vogliono traguardare? Quali politiche pubbliche per creare sviluppo contrastando le disuguaglianze? Come proiettarsi sulla scala globale valorizzando il capitale territoriale [9]_?
+
+.. [9]
+   *“Il capitale territoriale allude non soltanto ai beni pubblici, al capitale fisso sociale e al capitale produttivo, ma anche al capitale sociale incorporato nei luoghi sotto forma di senso di appartenenza e di tradizioni identitarie consolidate, e di capitale relazionale inteso come capacità di cooperare, di fare rete su ambiti rerritoriali pertinenti e su sfide complesse quali ad esempio la salvaguardia per patrimonio culturale e paesistico.”* M. C. Gibelli, *“Riflessioni sull’intercomunalità”*, in M. Baioni (a cura di), *“La costruzione della città pubblica”*, Alinea editrice, 2008.
