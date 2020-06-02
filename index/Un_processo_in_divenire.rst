@@ -168,9 +168,3 @@ L’area metropolitana di Napoli costituisce il principale hub del sud italia in
    :name: cm021   
    
    Superficie territoriale della Città Metropolitana di Napoli (KM\ :sup:`2`) in confronto ai dati regionali nella Regione Campania
-
-.. figure:: /media/img022.png
-   :alt: Popolazione della Città Metropolitana di Napoli (ab.) in confronto ai dati regionali (anno 2018)
-   :name: cm022   
-   
-   Popolazione della Città Metropolitana di Napoli (ab.) in confronto ai dati regionali (anno 2018)
