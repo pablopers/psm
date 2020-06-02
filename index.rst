@@ -23,11 +23,11 @@
    :numbered:
 
    
-   index/Un_processo_in_divenire.rst 
-<!--   index/Processo_di_costruzione_delle_scelte_condivise.rst  -->
-<!--   index/Analisi_del_Contesto.rst  -->
-<!--   index/Direttrici_Assi_e_Azioni.rst -->
-<!--   index/Valutazione_monitoraggio_e_aggiornamento_del_Piano.rst  -->
+   index/Un_processo_in_divenire.rst
+   index/Processo_di_costruzione_delle_scelte_condivise.rst
+   index/Analisi_del_Contesto.rst
+   index/Direttrici_Assi_e_Azioni.rst
+   index/Valutazione_monitoraggio_e_aggiornamento_del_Piano.rst
 
 
 .. |immagiNA| image:: media/img001.png
