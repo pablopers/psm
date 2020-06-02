@@ -156,3 +156,9 @@ L’area metropolitana di Napoli costituisce il principale hub del sud italia in
    
    Principali reti di mobilità nell'area metropolitana di Napoli
 
+.. figure:: /media/img18-20.png
+   :alt: La figura mostra la conformazione fisica del territorio e area urbanizzata
+   :name: cm018-020   
+   
+   Conformazione fisica del territorio e area urbanizzata
+   
