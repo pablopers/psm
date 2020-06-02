@@ -219,3 +219,9 @@ La vera sfida, nel caso dell’area metropolitana di Napoli, è quella di riusci
    Città Metropolitane italiane. Confronto dati (2018) 
    
    TERRITORIO
+
+.. figure:: /media/img027.png
+   :alt: Popolazione a rischio frane residente in aree a pericolosità elevata P3 e molto elevata 
+   :name: cm27   
+   
+   Popolazione a rischio frane residente in aree a pericolosità elevata P3 e molto elevata
