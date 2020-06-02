@@ -119,7 +119,7 @@ Da un lato quindi le città metropolitane diventano nodi di reti transnazionali 
    
 .. figure:: /media/img008.png
    :alt: La figura mostra le caratteristiche comuni delle grandi aree metropolitane - Analisi SWOT
-   :name: cm   
+   :name: cm008
    
    Caratteristiche comuni delle grandi aree metropolitane
    Analisi SWOT
@@ -152,13 +152,13 @@ L’area metropolitana di Napoli costituisce il principale hub del sud italia in
    
 .. figure:: /media/img16-17.png
    :alt: La figura mostra le principali reti di mobilità nell'area metropolitana di Napoli
-   :name: cm16-17   
+   :name: cm016-017   
    
    Principali reti di mobilità nell'area metropolitana di Napoli
 
 .. figure:: /media/img18-20.png
    :alt: La figura mostra la conformazione fisica del territorio e area urbanizzata
-   :name: cm18-20   
+   :name: cm018-020   
    
    Conformazione fisica del territorio e area urbanizzata
    
