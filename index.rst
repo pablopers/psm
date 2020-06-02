@@ -11,12 +11,6 @@
 :Publisher: Ufficio Relazioni con il Pubblico |logo_urp|
 :Licenza: CC BY-NC-ND 2.0 IT |cc-by-nc-nd|
 
-.. toctree::
-   :name: Lettera_sindaco
-   :hidden:
-
-   Lettera_del_Sindaco_Metropolitano.rst
-
 
 .. toctree::
    :maxdepth: 3
